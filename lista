@@ -85,6 +85,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/65331
 #EXTINF:-1,BIS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/755
 
+#EXTINF:-1,Music Box Brasil HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45888
+
+#EXTINF:-1,Music Top HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65328
+
 #EXTINF:-1,A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/419
 
@@ -117,12 +123,16 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/30
 http://voz.one:80/alexfnt/vTFBGKdUYq/763
 #EXTINF:-1,HGTV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/770
-
-
+#EXTINF:-1,LIFETIME HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/446
 #EXTINF:-1,FASHION TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64387
 #EXTINF:-1,FILM & ART HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45878
+#EXTINF:-1,NATGEO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/39
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/42
 
 
 
@@ -138,6 +148,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/758
 
 #EXTINF:-1,GNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/765
+
+
+
 
 
 
@@ -199,6 +212,20 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/613
 #EXTINF:-1,HBO Xtreme HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/616
 
+#EXTINF:-1,MEGAPIX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/449
+
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/452
+#EXTINF:-1,Paramount+ 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84448
+#EXTINF:-1,Paramount+ 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84449
+#EXTINF:-1,Paramount+ 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84450
+#EXTINF:-1,Paramount+ 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84451
+
 
 
 
@@ -207,13 +234,59 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/616
 #EXTINF:-1,BAND NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
 
+#EXTINF:-1,RECORD NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/686
+
 #EXTINF:-1,CNN BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/685
 
 #EXTINF:-1,GLOBO NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/692
 
+#EXTINF:-1,JP NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64284
+
 ######################################### Futebol ################################################
+
+
+#EXTINF:-1,PREMIERE CLUBES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/719
+#EXTINF:-1,PREMIERE 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/702
+#EXTINF:-1,PREMIERE 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/705
+#EXTINF:-1,PREMIERE 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/707
+#EXTINF:-1,PREMIERE 5 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/711
+#EXTINF:-1,PREMIERE 6 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/713
+#EXTINF:-1,PREMIERE 7 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/715
+
+#EXTINF:-1,ESPN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/364
+#EXTINF:-1,ESPN 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/367
+#EXTINF:-1,ESPN 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/360
+#EXTINF:-1,ESPN 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/375
+#EXTINF:-1,ESPN EXTRA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/366
+
+#EXTINF:-1,FOX SPORTS 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/372
+
+#EXTINF:-1,BAND SPORTS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/387
+
+#EXTINF:-1,CAZE TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/133932
+
+#EXTINF:-1,GOAT - HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/252460
+
 
 #EXTINF:-1,AMAZON PRIME JOGO 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/84336
@@ -224,14 +297,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/84338
 #EXTINF:-1,AMAZON PRIME JOGO 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/84339
 
-#EXTINF:-1,BAND SPORTS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/387
 
-#EXTINF:-1,CAZE TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/133932
-
-#EXTINF:-1,GOAT - HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/252460
 
 #EXTINF:-1,COPA DO BRASIL 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/83588
@@ -260,19 +326,13 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/49796
 #EXTINF:-1,ELEVEN SPORTS 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/49797
 
-#EXTINF:-1,ESPN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/364
-#EXTINF:-1,ESPN 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/367
-#EXTINF:-1,ESPN 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/360
-#EXTINF:-1,ESPN 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/375
-#EXTINF:-1,ESPN EXTRA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/366
 
-#EXTINF:-1,FOX SPORTS 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/372
+#EXTINF:-1,NOSSO FUTEBOL - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/131015
+#EXTINF:-1,NOSSO FUTEBOL - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/131016
+#EXTINF:-1,NOSSO FUTEBOL - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/131017
 
 
 ------------------------------------------------------------------------------------------------------
@@ -298,224 +358,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34020
 
 
 
-
-
-
-
-http://voz.one:80/alexfnt/vTFBGKdUYq/71488
-#EXTINF:-1,JP NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64284
-#EXTINF:-1,JP NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64283
-#EXTINF:-1,Lifetime (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13896
-#EXTINF:-1,LIFETIME FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/445
-#EXTINF:-1,LIFETIME HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/446
-#EXTINF:-1,LIFETIME SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/447
-#EXTINF:-1,LIGA FUTSAL 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/65297
-#EXTINF:-1,LIGA FUTSAL 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/65296
-#EXTINF:-1,LIGA FUTSAL 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/65295
-#EXTINF:-1,LIGA FUTSAL 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/46133
-#EXTINF:-1,LOVE NATURE
-http://voz.one:80/alexfnt/vTFBGKdUYq/96150
-#EXTINF:-1,Megapix (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13901
-#EXTINF:-1,Megapix 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/233
-#EXTINF:-1,MEGAPIX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/448
-#EXTINF:-1,MEGAPIX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/449
-#EXTINF:-1,MEGAPIX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/450
-#EXTINF:-1,MG - 98.0 FM
-http://voz.one:80/alexfnt/vTFBGKdUYq/34042
-#EXTINF:-1,MG - Cultura FM 95.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34044
-#EXTINF:-1,MG - Itatiaia FM 95.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34043
-#EXTINF:-1,MODO VIAGEM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65334
-#EXTINF:-1,MODO VIAGEM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65335
-#EXTINF:-1,MODO VIAGEM SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65336
-#EXTINF:-1,MTV (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13902
-
-
-
-
-#EXTINF:-1,MTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/771
-
-#EXTINF:-1,MTV Live FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65330
-
-#EXTINF:-1,MTV Live SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65332
-#EXTINF:-1,MTV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/773
-#EXTINF:-1,Multishow (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13903
-#EXTINF:-1,Multishow 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/235
-#EXTINF:-1,MULTISHOW FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/774
-
-#EXTINF:-1,MULTISHOW SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/776
-#EXTINF:-1,Music Box Brasil FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65326
-#EXTINF:-1,Music Box Brasil HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45888
-#EXTINF:-1,Music Box Brasil SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65327
-#EXTINF:-1,Music Top HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65328
-#EXTINF:-1,NatGeo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13904
-#EXTINF:-1,NATGEO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/39
-#EXTINF:-1,NatGeo Wild (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13905
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/41
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/42
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/43
-#EXTINF:-1,National Geographics 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/234
-#EXTINF:-1,NBA - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/258288
-#EXTINF:-1,NBA - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/258289
-#EXTINF:-1,NBA - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/258290
-#EXTINF:-1,NBA - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/258291
-#EXTINF:-1,NICK JR FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/646
-#EXTINF:-1,NICK JR HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/647
-#EXTINF:-1,NICK JR SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/648
-#EXTINF:-1,Nickelodeon (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13907
-#EXTINF:-1,NICKELODEON FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/649
-#EXTINF:-1,NICKELODEON HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/650
-#EXTINF:-1,NICKELODEON SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/651
-#EXTINF:-1,NickJr (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13908
-#EXTINF:-1,NOSSO FUTEBOL - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/131015
-#EXTINF:-1,NOSSO FUTEBOL - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/131016
-#EXTINF:-1,NOSSO FUTEBOL - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/131017
-#EXTINF:-1,Novo Tempo
-http://voz.one:80/alexfnt/vTFBGKdUYq/736
-#EXTINF:-1,Novo Tempo HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65397
-#EXTINF:-1,OFF (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13909
-#EXTINF:-1,OFF FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/777
-#EXTINF:-1,OFF HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/778
-#EXTINF:-1,OFF SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/779
-#EXTINF:-1,Paramount (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13910
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/451
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/452
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/453
-#EXTINF:-1,Paramount+ 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1,Paramount+ 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84449
-#EXTINF:-1,Paramount+ 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84450
-#EXTINF:-1,Paramount+ 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84451
-#EXTINF:-1,POLISHOP TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/795
-#EXTINF:-1,Premiere 2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13912
-#EXTINF:-1,PREMIERE 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/701
-#EXTINF:-1,PREMIERE 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/702
-#EXTINF:-1,PREMIERE 2 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/703
-#EXTINF:-1,Premiere 3 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13913
-#EXTINF:-1,PREMIERE 3 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/704
-#EXTINF:-1,PREMIERE 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/705
-#EXTINF:-1,PREMIERE 3 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/706
-#EXTINF:-1,Premiere 4 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13914
-#EXTINF:-1,PREMIERE 4 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/708
-#EXTINF:-1,PREMIERE 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/707
-#EXTINF:-1,PREMIERE 4 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/709
-#EXTINF:-1,Premiere 5 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13915
-#EXTINF:-1,PREMIERE 5 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/710
-#EXTINF:-1,PREMIERE 5 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/711
-#EXTINF:-1,PREMIERE 5 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/712
-#EXTINF:-1,Premiere 6 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13916
-#EXTINF:-1,PREMIERE 6 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47703
-#EXTINF:-1,PREMIERE 6 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/713
-#EXTINF:-1,PREMIERE 6 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/714
-#EXTINF:-1,Premiere 7 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13917
-#EXTINF:-1,PREMIERE 7 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/697
-#EXTINF:-1,PREMIERE 7 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/715
-#EXTINF:-1,PREMIERE 7 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/716
-#EXTINF:-1,Premiere Clubes (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13911
-#EXTINF:-1,Premiere Clubes 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/220
-#EXTINF:-1,PREMIERE CLUBES 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/45890
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/718
-#EXTINF:-1,PREMIERE CLUBES HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/719
-#EXTINF:-1,PREMIERE CLUBES SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/720
-#EXTINF:-1,PREMIERE MOSAICO
-http://voz.one:80/alexfnt/vTFBGKdUYq/717
 #EXTINF:-1,PRIME BOX BRASIL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/794
 #EXTINF:-1,PRIME BOX BRASIL HD
@@ -548,8 +390,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/314
 http://voz.one:80/alexfnt/vTFBGKdUYq/285
 #EXTINF:-1,RECORD NEWS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/689
-#EXTINF:-1,RECORD NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/686
+
 #EXTINF:-1,RECORD NEWS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/690
 #EXTINF:-1,RECORD PARANA FHD
