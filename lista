@@ -53,6 +53,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/248
 #EXTINF:0 group-title="Canais aberto", Band RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
+#EXTINF:-1,BAND SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/251
+
 #EXTINF:-1,RECORD RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/291
 
@@ -76,28 +79,45 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/65333
 #EXTINF:-1,MTV Live HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65331
 
+#EXTINF:-1,BIS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/755
+
 #EXTINF:-1,A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/419
 
+#EXTINF:-1,ANIMAL PLANET HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/2
+
+#EXTINF:-1,ARTE 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/788
+
+
+
 
 ######################################### Filmes  ################################################
+
+#EXTINF:-1,AXN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/425
+
+#EXTINF:-1,AMC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/422
+
+#EXTINF:-1,CANAL BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45880
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes ", Cinemax
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 ######################################### Noticias  ################################################
+
 #EXTINF:-1,BAND NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
 
 ######################################### Futebol ################################################
 
-#EXTINF:-1,A&E (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13848
-#EXTINF:-1,A&E FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/418
-
-#EXTINF:-1,A&E SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/420
 #EXTINF:-1,AMAZON PRIME JOGO 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/84336
 #EXTINF:-1,AMAZON PRIME JOGO 2
@@ -106,98 +126,15 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/84337
 http://voz.one:80/alexfnt/vTFBGKdUYq/84338
 #EXTINF:-1,AMAZON PRIME JOGO 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/84339
-#EXTINF:-1,AMC (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13849
-#EXTINF:-1,AMC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/421
-#EXTINF:-1,AMC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/422
-#EXTINF:-1,AMC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/423
-#EXTINF:-1,Animal Planet (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13850
-#EXTINF:-1,Animal Planet 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/225
-#EXTINF:-1,ANIMAL PLANET FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/1
-#EXTINF:-1,ANIMAL PLANET HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/2
-#EXTINF:-1,ANIMAL PLANET SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/3
-#EXTINF:-1,Apple TV - LIVE
-http://voz.one:80/alexfnt/vTFBGKdUYq/250997
-#EXTINF:-1,Apple TV - LIVE 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/250998
-#EXTINF:-1,ARTE 1 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/787
-#EXTINF:-1,ARTE 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/788
-#EXTINF:-1,ARTE 1 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/789
-#EXTINF:-1,AXN (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13851
-#EXTINF:-1,AXN 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89347
-#EXTINF:-1,AXN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/424
-#EXTINF:-1,AXN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/425
-#EXTINF:-1,AXN SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/426
-#EXTINF:-1,BA - Band FM 99.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34013
-#EXTINF:-1,BA - CBN FM 100.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34016
-#EXTINF:-1,BA - Feliz FM 92.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34014
-#EXTINF:-1,BA - GFM 90.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34012
-#EXTINF:-1,BABY TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/619
 
-#EXTINF:-1,BAND NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/682
-
-#EXTINF:-1,BAND NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/687
-#EXTINF:-1,BAND RJ
-http://voz.one:80/alexfnt/vTFBGKdUYq/249
-
-#EXTINF:-1,BAND RS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96147
-#EXTINF:-1,BAND SP
-http://voz.one:80/alexfnt/vTFBGKdUYq/252
-#EXTINF:-1,BAND SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/250
-#EXTINF:-1,BAND SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/251
-#EXTINF:-1,BAND SPORTS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/385
 #EXTINF:-1,BAND SPORTS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/387
-#EXTINF:-1,BAND SPORTS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/386
-#EXTINF:-1,BandSports (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13853
-#EXTINF:-1,BIS (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13854
-#EXTINF:-1,BIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/754
-#EXTINF:-1,BIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/755
-#EXTINF:-1,BIS SD
-#EXTINF:-1,Canal Brasil (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13856
-#EXTINF:-1,CANAL BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45893
-#EXTINF:-1,CANAL BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45880
-#EXTINF:-1,CANAL BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/123637
-#EXTINF:-1,CANAL DO BOI
-http://voz.one:80/alexfnt/vTFBGKdUYq/45887
-#EXTINF:-1,CANAL RURAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/56166
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
 #EXTINF:-1,Canal Sony (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13857
 #EXTINF:-1,CANÇÃO NOVA HD
