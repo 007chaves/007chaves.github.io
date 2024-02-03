@@ -28,11 +28,13 @@ https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=fM1bHVotMWAmCb2D
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Record ", Record RJ 
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=F0iBaLcapGu2dmdJJDFYQw&3U1G7qaTxrPbalZnEx=1707010609
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="APEXIPTV CANAIS" group-title="Band ", Band 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Band ", Band 
 https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
-#EXTINF:-1 tvg-logo="",SBT INTERIOR SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Cinemax ", Cinemax
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
+
 
 
 
