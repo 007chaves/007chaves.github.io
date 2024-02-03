@@ -38,6 +38,15 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/727
 #EXTINF:-1 group-title="Canais aberto", FUTURA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/255
 
+#EXTINF:-1 group-title="Canais aberto",TV BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/263
+
+#EXTINF:-1 group-title="Canais aberto",TV CULTURA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/254
+
+#EXTINF:-1 group-title="Canais aberto",Tv Escola
+http://voz.one:80/alexfnt/vTFBGKdUYq/45929
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais aberto", Rede Brasil TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/45915
 
@@ -167,135 +176,135 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/765
 
 ######################################### Filmes  ################################################
 
-#EXTINF:-1,AXN HD
+#EXTINF:-1 group-title="Filmes",AXN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/425
 
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="Filmes",AMC HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/422
 
-#EXTINF:-1,STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title="Filmes",STUDIO UNIVERSAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/461
 
-#EXTINF:-1,Canal Sony (H265)
+#EXTINF:-1 group-title="Filmes",Canal Sony (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13857
 
-#EXTINF:-1,SONY HD
+#EXTINF:-1 group-title="Filmes",SONY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/455
 
-#EXTINF:-1,CANAL BRASIL HD
+#EXTINF:-1 group-title="Filmes",CANAL BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45880
 
-#EXTINF:-1,CINE CANAL HD
+#EXTINF:-1 group-title="Filmes",CINE CANAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
 
-#EXTINF:-1,CINEMAX HD
+#EXTINF:-1 group-title="Filmes",CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
 
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes ", Cinemax (Alternativo)
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="Filmes",FX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/443
 
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Filmes",HBO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/601
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="Filmes",HBO 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1,HBO FAMILY HD
+#EXTINF:-1 group-title="Filmes",HBO FAMILY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/598
-#EXTINF:-1,HBO MAX 1
+#EXTINF:-1 group-title="Filmes",HBO MAX 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/57702
-#EXTINF:-1,HBO MAX 2
+#EXTINF:-1 group-title="Filmes",HBO MAX 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/57703
-#EXTINF:-1,HBO MAX 3
+#EXTINF:-1 group-title="Filmes",HBO MAX 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/57704
-#EXTINF:-1,HBO MAX 4
+#EXTINF:-1 group-title="Filmes",HBO MAX 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/66044
-#EXTINF:-1,HBO MAX 5
+#EXTINF:-1 group-title="Filmes",HBO MAX 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/124780
-#EXTINF:-1,HBO MUNDI HD
+#EXTINF:-1 group-title="Filmes",HBO MUNDI HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/603
-#EXTINF:-1,HBO PLUS HD
+#EXTINF:-1 group-title="Filmes",HBO PLUS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/606
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1 group-title="Filmes",HBO POP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/609
-#EXTINF:-1,HBO SIGNATURE HD
+#EXTINF:-1 group-title="Filmes",HBO SIGNATURE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/613
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1 group-title="Filmes",HBO Xtreme HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/616
 
-#EXTINF:-1,MEGAPIX HD
+#EXTINF:-1 group-title="Filmes",MEGAPIX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/449
 
-#EXTINF:-1,SPACE HD
+#EXTINF:-1 group-title="Filmes",SPACE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/458
 
-#EXTINF:-1,SYFY HD
+#EXTINF:-1 group-title="Filmes",SYFY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/464
 
-#EXTINF:-1,TBC BRASIL CENTRAL
+#EXTINF:-1 group-title="Filmes",TBC BRASIL CENTRAL
 http://voz.one:80/alexfnt/vTFBGKdUYq/131020
-#EXTINF:-1,TCM HD
+#EXTINF:-1 group-title="Filmes",TCM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTINF:-1,TELECINE ACTION HD
+#EXTINF:-1 group-title="Filmes",TELECINE ACTION HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/799
-#EXTINF:-1,TELECINE CULT HD
+#EXTINF:-1 group-title="Filmes",TELECINE CULT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/802
-#EXTINF:-1,TELECINE FUN HD
+#EXTINF:-1 group-title="Filmes",TELECINE FUN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/805
-#EXTINF:-1,TELECINE PIPOCA HD
+#EXTINF:-1 group-title="Filmes",TELECINE PIPOCA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/807
-#EXTINF:-1,TELECINE PREMIUM HD
+#EXTINF:-1 group-title="Filmes",TELECINE PREMIUM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/810
-#EXTINF:-1,TELECINE TOUCH HD
+#EXTINF:-1 group-title="Filmes",TELECINE TOUCH HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/813
-#EXTINF:-1,TELECINE TOUCH SD
+#EXTINF:-1 group-title="Filmes",TELECINE TOUCH SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/814
-#EXTINF:-1,TLC (H265)
+#EXTINF:-1 group-title="Filmes",TLC (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13933
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="Filmes",TNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/470
-#EXTINF:-1,TNT NOVELAS HD
-#EXTINF:-1,TNT SERIES HD
+#EXTINF:-1 group-title="Filmes",TNT SERIES HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/473
-#EXTINF:-1,TNT SERIES SD
+#EXTINF:-1 group-title="Filmes",TNT SERIES SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/474
 
+#EXTINF:-1 group-title="Filmes",WARNER CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/479
 
-
-#EXTINF:-1,SKY PLAY 01
+#EXTINF:-1 group-title="Filmes",SKY PLAY 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/343
-#EXTINF:-1,SKY PLAY 02
+#EXTINF:-1 group-title="Filmes",SKY PLAY 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/344
-#EXTINF:-1,SKY PLAY 03
+#EXTINF:-1 group-title="Filmes",SKY PLAY 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/345
-#EXTINF:-1,SKY PLAY 04
+#EXTINF:-1 group-title="Filmes",SKY PLAY 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/346
-#EXTINF:-1,SKY PLAY 05
+#EXTINF:-1 group-title="Filmes",SKY PLAY 05
 http://voz.one:80/alexfnt/vTFBGKdUYq/324
-#EXTINF:-1,SKY PLAY 06
+#EXTINF:-1 group-title="Filmes",SKY PLAY 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/338
-#EXTINF:-1,SKY PLAY 07
+#EXTINF:-1 group-title="Filmes",SKY PLAY 07
 http://voz.one:80/alexfnt/vTFBGKdUYq/333
-#EXTINF:-1,SKY PLAY 08
+#EXTINF:-1 group-title="Filmes",SKY PLAY 08
 http://voz.one:80/alexfnt/vTFBGKdUYq/339
-#EXTINF:-1,SKY PLAY 09
+#EXTINF:-1 group-title="Filmes",SKY PLAY 09
 http://voz.one:80/alexfnt/vTFBGKdUYq/342
-#EXTINF:-1,SKY PLAY 10
+#EXTINF:-1 group-title="Filmes",SKY PLAY 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/335
-#EXTINF:-1,SKY PLAY 11
+#EXTINF:-1 group-title="Filmes",SKY PLAY 11
 http://voz.one:80/alexfnt/vTFBGKdUYq/340
 
 
-#EXTINF:-1,PARAMOUNT CHANNEL HD
+#EXTINF:-1 group-title="Filmes",PARAMOUNT CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/452
-#EXTINF:-1,Paramount+ 1 HD
+#EXTINF:-1 group-title="Filmes",Paramount+ 1 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1,Paramount+ 2 HD
+#EXTINF:-1 group-title="Filmes",Paramount+ 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84449
-#EXTINF:-1,Paramount+ 3 HD
+#EXTINF:-1 group-title="Filmes",Paramount+ 3 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84450
-#EXTINF:-1,Paramount+ 4 HD
+#EXTINF:-1 group-title="Filmes",Paramount+ 4 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/84451
 
 
@@ -304,422 +313,259 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/84451
 
 ######################################### Noticias  ################################################
 
-#EXTINF:-1,BAND NEWS HD
+#EXTINF:-1 group-title="Noticias",BAND NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
 
-#EXTINF:-1,RECORD NEWS HD
+#EXTINF:-1 group-title="Noticias",RECORD NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/686
 
-#EXTINF:-1,CNN BRASIL HD
+#EXTINF:-1 group-title="Noticias",CNN BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/685
 
-#EXTINF:-1,GLOBO NEWS HD
+#EXTINF:-1 group-title="Noticias",GLOBO NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/692
 
-#EXTINF:-1,JP NEWS HD
+#EXTINF:-1 group-title="Noticias",JP NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64284
 
 ######################################### Futebol ################################################
 
-#EXTINF:-1,SPORTV HD
+#EXTINF:-1 group-title="Esportes",SPORTV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/744
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:-1 group-title="Esportes",SPORTV 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/738
-#EXTINF:-1,SPORTV 3 HD
+#EXTINF:-1 group-title="Esportes",SPORTV 3 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/741
-#EXTINF:-1,SPORTV 4 HD
+#EXTINF:-1 group-title="Esportes",SPORTV 4 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/56038
-#EXTINF:-1,SPORTV PLUS
+#EXTINF:-1 group-title="Esportes",SPORTV PLUS
 http://voz.one:80/alexfnt/vTFBGKdUYq/56165
 
-#EXTINF:-1,PREMIERE CLUBES HD
+#EXTINF:-1 group-title="Esportes",PREMIERE CLUBES HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/719
-#EXTINF:-1,PREMIERE 2 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/702
-#EXTINF:-1,PREMIERE 3 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 3 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/705
-#EXTINF:-1,PREMIERE 4 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 4 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/707
-#EXTINF:-1,PREMIERE 5 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 5 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/711
-#EXTINF:-1,PREMIERE 6 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 6 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/713
-#EXTINF:-1,PREMIERE 7 HD
+#EXTINF:-1 group-title="Esportes",PREMIERE 7 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/715
 
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Esportes",ESPN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/364
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Esportes",ESPN 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/367
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Esportes",ESPN 3 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/360
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Esportes",ESPN 4 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/375
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="Esportes",ESPN EXTRA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/366
 
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="Esportes",STAR CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/431
-#EXTINF:-1,STAR CHANNEL SD
+#EXTINF:-1 group-title="Esportes",STAR CHANNEL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/441
-#EXTINF:-1,STAR+ 1
+#EXTINF:-1 group-title="Esportes",STAR+ 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/57676
-#EXTINF:-1,STAR+ 2
+#EXTINF:-1 group-title="Esportes",STAR+ 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/57706
-#EXTINF:-1,STAR+ 3
+#EXTINF:-1 group-title="Esportes",STAR+ 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/57707
-#EXTINF:-1,STAR+ 4
+#EXTINF:-1 group-title="Esportes",STAR+ 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/65302
-#EXTINF:-1,STAR+ 5
+#EXTINF:-1 group-title="Esportes",STAR+ 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/65303
-#EXTINF:-1,STAR+ 6
+#EXTINF:-1 group-title="Esportes",STAR+ 6
 http://voz.one:80/alexfnt/vTFBGKdUYq/65304
-#EXTINF:-1,STAR+ 7
+#EXTINF:-1 group-title="Esportes",STAR+ 7
 http://voz.one:80/alexfnt/vTFBGKdUYq/65305
 
 
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1 group-title="Esportes",FOX SPORTS 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/372
 
-#EXTINF:-1,BAND SPORTS HD
+#EXTINF:-1 group-title="Esportes",BAND SPORTS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/387
 
 
-#EXTINF:-1,CAZE TV
+#EXTINF:-1 group-title="Esportes",CAZE TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/133932
 
-#EXTINF:-1,GOAT - HD
+#EXTINF:-1 group-title="Esportes",GOAT - HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/252460
 
 
-#EXTINF:-1,AMAZON PRIME JOGO 1
+#EXTINF:-1 group-title="Esportes",AMAZON PRIME JOGO 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/84336
-#EXTINF:-1,AMAZON PRIME JOGO 2
+#EXTINF:-1 group-title="Esportes",AMAZON PRIME JOGO 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/84337
-#EXTINF:-1,AMAZON PRIME JOGO 3
+#EXTINF:-1 group-title="Esportes",AMAZON PRIME JOGO 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/84338
-#EXTINF:-1,AMAZON PRIME JOGO 4
+#EXTINF:-1 group-title="Esportes",AMAZON PRIME JOGO 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/84339
 
 
 
-#EXTINF:-1,COPA DO BRASIL 1
+#EXTINF:-1 group-title="Esportes",COPA DO BRASIL 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/83588
-#EXTINF:-1,COPA DO BRASIL 2
+#EXTINF:-1 group-title="Esportes",COPA DO BRASIL 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/89344
 
-#EXTINF:-1,DAZN 1
+#EXTINF:-1 group-title="Esportes",DAZN 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/354
-#EXTINF:-1,DAZN 2
+#EXTINF:-1 group-title="Esportes",DAZN 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/355
-#EXTINF:-1,DAZN 3
+#EXTINF:-1 group-title="Esportes",DAZN 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/356
-#EXTINF:-1,DAZN 4
+#EXTINF:-1 group-title="Esportes",DAZN 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/357
-#EXTINF:-1,DAZN 5
+#EXTINF:-1 group-title="Esportes",DAZN 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/65282
 
-#EXTINF:-1,ELEVEN SPORTS 1
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/49793
-#EXTINF:-1,ELEVEN SPORTS 2
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/49794
-#EXTINF:-1,ELEVEN SPORTS 3
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/49795
-#EXTINF:-1,ELEVEN SPORTS 4
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/49796
-#EXTINF:-1,ELEVEN SPORTS 5
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/49797
 
 
-#EXTINF:-1,NOSSO FUTEBOL - 01
+#EXTINF:-1 group-title="Esportes",NOSSO FUTEBOL - 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/131015
-#EXTINF:-1,NOSSO FUTEBOL - 02
+#EXTINF:-1 group-title="Esportes",NOSSO FUTEBOL - 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/131016
-#EXTINF:-1,NOSSO FUTEBOL - 03
+#EXTINF:-1 group-title="Esportes",NOSSO FUTEBOL - 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/131017
 
+######################################### 24Horas ################################################
 
-------------------------------------------------------------------------------------------------------
-
-
-
-
-
-#EXTINF:-1,DF - Joven Pan FM 106.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34018
-#EXTINF:-1,DF - Kiss FM 102.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34021
-#EXTINF:-1,DF - Transamerica FM 100.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34020
-#EXTINF:-1,RJ - BeatPlay FM
-http://voz.one:80/alexfnt/vTFBGKdUYq/34022
-#EXTINF:-1,RJ - JB FM 99.9
-http://voz.one:80/alexfnt/vTFBGKdUYq/34023
-#EXTINF:-1,RJ - Tupi FM 96.5
-http://voz.one:80/alexfnt/vTFBGKdUYq/34024
-#EXTINF:-1,SP - Antena 1 FM 94.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34035
-#EXTINF:-1,SP - Mix FM 106.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34037
-#EXTINF:-1,SP - Radio Globo FM 92.5
-http://voz.one:80/alexfnt/vTFBGKdUYq/34038
-#EXTINF:-1,SP - Top FM 100.5
-http://voz.one:80/alexfnt/vTFBGKdUYq/34039
-#EXTINF:-1,SP - Tropical FM 107.9
-http://voz.one:80/alexfnt/vTFBGKdUYq/34041
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,TV BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/261
-#EXTINF:-1,TV BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/263
-#EXTINF:-1,TV Camara FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65311
-#EXTINF:-1,TV Camara HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45918
-#EXTINF:-1,TV CULTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/254
-#EXTINF:-1,TV CULTURA PA
-http://voz.one:80/alexfnt/vTFBGKdUYq/133933
-#EXTINF:-1,Tv Escola
-http://voz.one:80/alexfnt/vTFBGKdUYq/45929
-#EXTINF:-1,TV GAZETA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/266
-#EXTINF:-1,TV INTEGRAÇÃO DIVINÓPOLIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58815
-#EXTINF:-1,TV INTEGRAÇÃO DIVINÓPOLIS HD 
-http://voz.one:80/alexfnt/vTFBGKdUYq/58816
-#EXTINF:-1,TV Justica
-http://voz.one:80/alexfnt/vTFBGKdUYq/45920
-#EXTINF:-1,TV PAI ETERNO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/49788
-#EXTINF:-1,TV PAMPA RS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45910
-#EXTINF:-1,TV RA TIM BUM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/655
-#EXTINF:-1,TV RA TIM BUM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/665
-#EXTINF:-1,TV RA TIM BUM SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/666
-#EXTINF:-1,TV Senado
-http://voz.one:80/alexfnt/vTFBGKdUYq/45922
-#EXTINF:-1,TVE BAHIA 
-http://voz.one:80/alexfnt/vTFBGKdUYq/131018
-#EXTINF:-1,TVE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65263
-#EXTINF:-1,TVE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65264
-#EXTINF:-1,UFC FIGHT PASS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/130678
-#EXTINF:-1,Universal Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89355
-#EXTINF:-1,UNIVERSAL TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/475
-#EXTINF:-1,UNIVERSAL TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/476
-#EXTINF:-1,UNIVERSAL TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/477
-#EXTINF:-1,Viva 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89356
-#EXTINF:-1,VIVA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/784
-
-#EXTINF:-1,VIVA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/785
-#EXTINF:-1,Warner (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13941
-#EXTINF:-1,WARNER CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/478
-#EXTINF:-1,WARNER CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/479
-#EXTINF:-1,WARNER CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/480
-#EXTINF:-1,Woohoo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13942
-#EXTINF:-1,WOOHOO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/656
-#EXTINF:-1,WOOHOO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/657
-#EXTINF:-1,WOOHOO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/658
-#EXTINF:-1,ZOOMO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/659
-#EXTINF:-1,ZOOMOO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/660
-#EXTINF:-1,ZOOMOO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/661
-#EXTINF:-1,[24H] 3 Palavrinhas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTINF:-1,[24H] Alladin
-http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTINF:-1,[24H] As Meninas Super poderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTINF:-1,[24H] As Meninas Superpoderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTINF:-1,[24H] Ben 10
-http://voz.one:80/alexfnt/vTFBGKdUYq/95720
-#EXTINF:-1,[24H] BOB
-http://voz.one:80/alexfnt/vTFBGKdUYq/95748
-#EXTINF:-1,[24H] Bob esponja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95721
-#EXTINF:-1,[24H] Capitão Caverna
-http://voz.one:80/alexfnt/vTFBGKdUYq/95712
-#EXTINF:-1,[24H] Caverna do Dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTINF:-1,[24H] Caverna do dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95723
-#EXTINF:-1,[24H] Central Kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTINF:-1,[24H] Chapolin colorado
+#EXTINF:-1 group-title="24 Horas",[24H] Chapolin colorado
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:-1,[24H] Chapolin Colorado 2
+#EXTINF:-1 group-title="24 Horas",[24H] Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:-1,[24H] Chaves
+#EXTINF:-1 group-title="24 Horas",[24H] Chaves
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:-1,[24H] Chaves Cartoon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95726
-#EXTINF:-1,[24H] Cine kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95727
-#EXTINF:-1,[24H] Desenhos disney
-http://voz.one:80/alexfnt/vTFBGKdUYq/95731
-#EXTINF:-1,[24H] Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95665
-#EXTINF:-1,[24H] Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95732
-#EXTINF:-1,[24H] Digimon 15º Aniversário
-http://voz.one:80/alexfnt/vTFBGKdUYq/95666
-#EXTINF:-1,[24H] Dragon Ball
-http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTINF:-1,[24H] Dragon Ball 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTINF:-1,[24H] Dragon Ball 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTINF:-1,[24H] Dragon Ball Heroes
-http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTINF:-1,[24H] Dragon Ball Super
-http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTINF:-1,[24H] Dragon Ball Super 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTINF:-1,[24H] Dragon Ball Super 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTINF:-1,[24H] Dragon Ball Super 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTINF:-1,[24H] Dragon Ball Z
-http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTINF:-1,[24H] Dragon Ball Z 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTINF:-1,[24H] Dragon Ball Z 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 1
+#EXTINF:-1 group-title="24 Horas",[24H] Eu a Patroa e as Crianças 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 2
+#EXTINF:-1 group-title="24 Horas",[24H] Eu a Patroa e as Crianças 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTINF:-1,[24H] Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95759
-#EXTINF:-1,[24h] Galinha Pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTINF:-1,[24H] Galinha pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTINF:-1,[24H] Game of Thrones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTINF:-1,[24H] He-Man
+#EXTINF:-1 group-title="24 Horas",[24H] He-Man
 http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTINF:-1,[24H] Hercules
+#EXTINF:-1 group-title="24 Horas",[24H] Hercules
 http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTINF:-1,[24H] Homem aranha
+#EXTINF:-1 group-title="24 Horas",[24H] Homem aranha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTINF:-1,[24H] Igreja Universal
-http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTINF:-1,[24H] Jack Chan
+#EXTINF:-1 group-title="24 Horas",[24H] Jack Chan
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:-1,[24H] Jaclkie Chan 2
+#EXTINF:-1 group-title="24 Horas",[24H] Jaclkie Chan 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1,[24H] Jaspion
+#EXTINF:-1 group-title="24 Horas",[24H] Jaspion
 http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTINF:-1,[24H] JIRAYA O Incrível Ninja
+#EXTINF:-1 group-title="24 Horas",[24H] JIRAYA O Incrível Ninja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:-1,[24H] Kenan e Kel
+#EXTINF:-1 group-title="24 Horas",[24H] Kenan e Kel
 http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTINF:-1,[24H] KPOP TV
+#EXTINF:-1 group-title="24 Horas",[24H] KPOP TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTINF:-1,[24H] Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:-1,[24H] MASCARA
+#EXTINF:-1 group-title="24 Horas",[24H] MASCARA
 http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1,[24H] Mortal Kombat
+#EXTINF:-1 group-title="24 Horas",[24H] Mortal Kombat
 http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:-1,[24H] Mr.Ben
+#EXTINF:-1 group-title="24 Horas",[24H] Mr.Ben
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1,[24H] Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTINF:-1,[24H] Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTINF:-1,[24H] O Maskara
+#EXTINF:-1 group-title="24 Horas",[24H] O Maskara
 http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1,[24H] Os Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTINF:-1,[24H] Os Simpsons 01
+#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:-1,[24H] Os Simpsons 02
+#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:-1,[24H] Os Simpsons 03
+#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:-1,[24H] Os Simpsons 04
+#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:-1,[24H] Os Vingadores
+#EXTINF:-1 group-title="24 Horas",[24H] Os Vingadores
 http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:-1,[24H] Peeppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTINF:-1,[24H] Peixonautas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTINF:-1,[24H] Peppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTINF:-1,[24H] Pernalonga
-http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:-1,[24H] Pink-e-Cerebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:-1,[24H] Pinky e o Cérebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:-1,[24H] Scooby-Doo
+#EXTINF:-1 group-title="24 Horas",[24H] Scooby-Doo
 http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTINF:-1,[24H] South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTINF:-1,[24H] South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTINF:-1,[24H] Thundercats
+#EXTINF:-1 group-title="24 Horas",[24H] Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTINF:-1,[24H] Thundercats
+#EXTINF:-1 group-title="24 Horas",[24H] Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
 #EXTINF:-1,[24H] Timao e Pumba
 http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 1
+#EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 2
+#EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:-1,[24H] Tom & Jerry
+#EXTINF:-1 group-title="24 Horas",[24H] Tom & Jerry
 http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:-1,[24H] Tres Espias Demais
-http://voz.one:80/alexfnt/vTFBGKdUYq/95778
 #EXTINF:-1,[24H] Um Maluco no Pedaço 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTINF:-1,[24H] Um Maluco no Pedaço 2
+#EXTINF:-1 group-title="24 Horas",[24H] Um Maluco no Pedaço 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTINF:-1,[24h] Ursinhos Carinhos
-http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTINF:-1,[24H] Vai que Cola 1
+#EXTINF:-1 group-title="24 Horas",[24H] Vai que Cola 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTINF:-1,[24H] Vai que Cola 2
+#EXTINF:-1 group-title="24 Horas",[24H] Vai que Cola 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTINF:-1,[24H] X-MEN
+#EXTINF:-1 group-title="24 Horas",[24H] X-MEN
 http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+
+
+######################################### Radios ################################################
+
+
+
+#EXTINF:-1 group-title="Radios",RJ - BeatPlay FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34022
+#EXTINF:-1 group-title="Radios",RJ - JB FM 99.9
+http://voz.one:80/alexfnt/vTFBGKdUYq/34023
+#EXTINF:-1 group-title="Radios",RJ - Tupi FM 96.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34024
+#EXTINF:-1 group-title="Radios",SP - Antena 1 FM 94.7
+http://voz.one:80/alexfnt/vTFBGKdUYq/34035
+#EXTINF:-1 group-title="Radios",SP - Mix FM 106.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34037
+#EXTINF:-1 group-title="Radios",SP - Radio Globo FM 92.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34038
+#EXTINF:-1 group-title="Radios",SP - Top FM 100.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34039
+#EXTINF:-1 group-title="Radios",SP - Tropical FM 107.9
+http://voz.one:80/alexfnt/vTFBGKdUYq/34041
+#EXTINF:-1 group-title="Radios",DF - Joven Pan FM 106.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34018
+#EXTINF:-1 group-title="Radios",DF - Kiss FM 102.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34021
+#EXTINF:-1 group-title="Radios",DF - Transamerica FM 100.1
+http://voz.one:80/alexfnt/vTFBGKdUYq/34020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
