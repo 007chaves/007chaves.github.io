@@ -88,8 +88,35 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/419
 #EXTINF:-1,ANIMAL PLANET HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/2
 
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/5
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/629
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/11
+#EXTINF:-1,DISCOVERY THEATER HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/14
+#EXTINF:-1,DISCOVERY TLC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/17
+#EXTINF:-1,DISCOVERY TURBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/20
+#EXTINF:-1,DISCOVERY WORLD HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/23
+#EXTINF:-1,DISNEY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/631
+
 #EXTINF:-1,ARTE 1 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/788
+
+#EXTINF:-1,COMBATE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/352
+
+#EXTINF:-1,COMEDY CENTRAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/758
+
+
 
 
 
@@ -105,16 +132,28 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/422
 #EXTINF:-1,CANAL BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45880
 
+#EXTINF:-1,Canal Sony (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13857
+
+#EXTINF:-1,CINE CANAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/433
+
+#EXTINF:-1,CINEMAX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/428
 
 
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes ", Cinemax
+
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes ", Cinemax (Alternativo)
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 ######################################### Noticias  ################################################
 
 #EXTINF:-1,BAND NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
+
+#EXTINF:-1,CNN BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/685
 
 ######################################### Futebol ################################################
 
@@ -130,103 +169,14 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/84339
 #EXTINF:-1,BAND SPORTS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/387
 
-
-------------------------------------------------------------------------------------------------------
-
-
-
-#EXTINF:-1,Canal Sony (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13857
-#EXTINF:-1,CANÇÃO NOVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56241
-#EXTINF:-1,Cartoon Network 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/226
-#EXTINF:-1,CARTOON NETWORK FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/625
-#EXTINF:-1,CARTOON NETWORK HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/626
-#EXTINF:-1,CARTOON NETWORK SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/627
-#EXTINF:-1,Cartoonito (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13855
-#EXTINF:-1,Cartoonito FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/622
-#EXTINF:-1,Cartoonito HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/623
-#EXTINF:-1,Cartoonito SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/624
-#EXTINF:-1,CartoonNetwork (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13858
 #EXTINF:-1,CAZE TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/133932
-#EXTINF:-1,CBN SÃO PAULO
-http://voz.one:80/alexfnt/vTFBGKdUYq/64386
-#EXTINF:-1,CHEF TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/796
-#EXTINF:-1,CHEF TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/746
-#EXTINF:-1,Chef TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65350
-#EXTINF:-1,CINE CANAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/432
-#EXTINF:-1,CINE CANAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/433
-#EXTINF:-1,CINE CANAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/434
-#EXTINF:-1,Cinemax (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13859
-#EXTINF:-1,CINEMAX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/427
-#EXTINF:-1,CINEMAX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/428
-#EXTINF:-1,CINEMAX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/429
-#EXTINF:-1,CNN Brasil 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89346
-#EXTINF:-1,CNN BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/684
-#EXTINF:-1,CNN BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/685
-#EXTINF:-1,CNN BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/688
-#EXTINF:-1,CNN ESPANHOL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130688
-#EXTINF:-1,CNN INTERNACIONAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130690
-#EXTINF:-1,Combate (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13860
-#EXTINF:-1,Combate 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/227
-#EXTINF:-1,COMBATE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/351
-#EXTINF:-1,COMBATE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/352
-#EXTINF:-1,COMBATE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/353
-#EXTINF:-1,Comedy Central (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13861
-#EXTINF:-1,Comedy Central 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89348
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/757
-#EXTINF:-1,COMEDY CENTRAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/758
-#EXTINF:-1,COMEDY CENTRAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/759
+
 #EXTINF:-1,COPA DO BRASIL 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/83588
 #EXTINF:-1,COPA DO BRASIL 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/89344
-#EXTINF:-1,COPA DO NORDESTE 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/75034
-#EXTINF:-1,COPA DO NORDESTE 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/75035
-#EXTINF:-1,Curta! FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65384
-#EXTINF:-1,Curta! HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65319
-#EXTINF:-1,Curta! SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/761
+
 #EXTINF:-1,DAZN 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/354
 #EXTINF:-1,DAZN 2
@@ -237,106 +187,23 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/356
 http://voz.one:80/alexfnt/vTFBGKdUYq/357
 #EXTINF:-1,DAZN 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/65282
-#EXTINF:-1,DF - Hunter 80s
-http://voz.one:80/alexfnt/vTFBGKdUYq/56136
-#EXTINF:-1,DF - HUNTER FM 102.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34019
-#EXTINF:-1,DF - Hunter Fresh
-http://voz.one:80/alexfnt/vTFBGKdUYq/56048
-#EXTINF:-1,DF - Hunter Gospel
-http://voz.one:80/alexfnt/vTFBGKdUYq/56064
-#EXTINF:-1,DF - Hunter LO-FI
-http://voz.one:80/alexfnt/vTFBGKdUYq/56139
-#EXTINF:-1,DF - Hunter Pisadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/56137
-#EXTINF:-1,DF - Hunter POP2KS
-http://voz.one:80/alexfnt/vTFBGKdUYq/56049
-#EXTINF:-1,DF - Hunter Rock
-http://voz.one:80/alexfnt/vTFBGKdUYq/56138
-#EXTINF:-1,DF - Hunter Sertanejo
-http://voz.one:80/alexfnt/vTFBGKdUYq/56050
-#EXTINF:-1,DF - Hunter Tropical
-http://voz.one:80/alexfnt/vTFBGKdUYq/56140
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
 #EXTINF:-1,DF - Joven Pan FM 106.3
 http://voz.one:80/alexfnt/vTFBGKdUYq/34018
 #EXTINF:-1,DF - Kiss FM 102.3
 http://voz.one:80/alexfnt/vTFBGKdUYq/34021
 #EXTINF:-1,DF - Transamerica FM 100.1
 http://voz.one:80/alexfnt/vTFBGKdUYq/34020
-#EXTINF:-1,Discovery Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13862
-#EXTINF:-1,Discovery Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/228
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/4
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/5
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/6
-#EXTINF:-1,Discovery H&H 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89349
-#EXTINF:-1,Discovery Home & Health (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13864
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/7
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/8
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/9
-#EXTINF:-1,Discovery Kids (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13865
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/628
-#EXTINF:-1,DISCOVERY KIDS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/629
-#EXTINF:-1,DISCOVERY KIDS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/662
-#EXTINF:-1,Discovery Science (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13866
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/10
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/11
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/12
-#EXTINF:-1,Discovery Theater (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13867
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/13
-#EXTINF:-1,DISCOVERY THEATER HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/14
-#EXTINF:-1,DISCOVERY THEATER SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/15
-#EXTINF:-1,DISCOVERY TLC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/16
-#EXTINF:-1,DISCOVERY TLC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/17
-#EXTINF:-1,DISCOVERY TLC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/18
-#EXTINF:-1,Discovery Turbo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13868
-#EXTINF:-1,Discovery Turbo 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89350
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/19
-#EXTINF:-1,DISCOVERY TURBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/20
-#EXTINF:-1,DISCOVERY TURBO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/21
-#EXTINF:-1,Discovery World (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13869
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/22
-#EXTINF:-1,DISCOVERY WORLD HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/23
-#EXTINF:-1,DISCOVERY WORLD SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/24
-#EXTINF:-1,Disney Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13870
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/630
-#EXTINF:-1,DISNEY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/631
+
+
+
+
 #EXTINF:-1,DISNEY CHANNEL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/632
 #EXTINF:-1,DOG TV
