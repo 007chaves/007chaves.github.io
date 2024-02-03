@@ -1,37 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1,BBB 24  - Camera principal 
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Principal 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/254730
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Principal 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/254731
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Cozinha Delicia
+http://voz.one:80/alexfnt/vTFBGKdUYq/258181
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Piscina 
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanha a casa 1
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=7AqKuvMtx0AKikiTC-bqxA&3U1G7qaTxrPbalZnEx=1707007968
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Quarto Fada
+http://voz.one:80/alexfnt/vTFBGKdUYq/254732
 
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanhe a casa 2 
-https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=isITmy3IPz03nUtqnbG3QA&3U1G7qaTxrPbalZnEx=1707008042
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Quarto Gnomo
+http://voz.one:80/alexfnt/vTFBGKdUYq/258180
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Sala
+http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 
 #EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanha a casa 1 (Alternativo)
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=4lfXpv90lsk4ayFh1hJU-Q&3U1G7qaTxrPbalZnEx=1706944777
+https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=7AqKuvMtx0AKikiTC-bqxA&3U1G7qaTxrPbalZnEx=1707007968
 
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanha a casa 2 (Alternativo)
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=0VJnZAlQZZFYGg6moSteNA&3U1G7qaTxrPbalZnEx=1706944908
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanhe a casa 2 (Alternativo) 
+https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=isITmy3IPz03nUtqnbG3QA&3U1G7qaTxrPbalZnEx=1707008042
 
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", opcao 3 (Alternativo)
-https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=GE3VFjejtbnv8zZLxudeBw&3U1G7qaTxrPbalZnEx=1706945129
 
 
 ############################ --------  #################################
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP)
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1,TV APARECIDA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/727
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1hFt3Rm.png" group-title="Globo", Globo RJ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" , Rede Brasil TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/45915
+
+#EXTINF:-1 " group-title="Variedades", Rede Brasil (Alternativo)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hFt3Rm.png" ,GLOBO RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45803
+
+#EXTINF:0  , Globo RJ (alternativo)
 https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=fM1bHVotMWAmCb2D2JXX6Q&3U1G7qaTxrPbalZnEx=1707010390
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kSTnrr.jpg",BAND RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/248
+
+#EXTINF:0 , Band RJ (Alternativo)
+https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Record ", Record RJ 
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=F0iBaLcapGu2dmdJJDFYQw&3U1G7qaTxrPbalZnEx=1707010609
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Band ", Band 
-https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
+
 
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Cinemax ", Cinemax
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
@@ -135,8 +159,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/683
 http://voz.one:80/alexfnt/vTFBGKdUYq/687
 #EXTINF:-1,BAND RJ
 http://voz.one:80/alexfnt/vTFBGKdUYq/249
-#EXTINF:-1,BAND RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/248
+
 #EXTINF:-1,BAND RS
 http://voz.one:80/alexfnt/vTFBGKdUYq/96147
 #EXTINF:-1,BAND SP
@@ -668,8 +691,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/134001
 http://voz.one:80/alexfnt/vTFBGKdUYq/45817
 #EXTINF:-1,GLOBO RJ FHD (INTERIOR)
 http://voz.one:80/alexfnt/vTFBGKdUYq/45841
-#EXTINF:-1,GLOBO RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45803
+
 #EXTINF:-1,GLOBO RJ HD (INTERIOR)
 http://voz.one:80/alexfnt/vTFBGKdUYq/45840
 #EXTINF:-1,GLOBO RJ PLANICE
@@ -1216,8 +1238,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/277
 http://voz.one:80/alexfnt/vTFBGKdUYq/131019
 #EXTINF:-1,Redbull TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65294
-#EXTINF:-1,Rede Brasil TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/45915
+
 #EXTINF:-1,Rede Familia FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65387
 #EXTINF:-1,REDE FURACÃO
@@ -1538,8 +1559,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/780
 http://voz.one:80/alexfnt/vTFBGKdUYq/65312
 #EXTINF:-1,TV ANHANGUERA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/58817
-#EXTINF:-1,TV APARECIDA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/727
+
 #EXTINF:-1,TV BRASIL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/261
 #EXTINF:-1,TV BRASIL HD
