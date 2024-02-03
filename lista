@@ -50,6 +50,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/45803
 #EXTINF:0  group-title="Canais aberto", Globo RJ (alternativo)
 https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=fM1bHVotMWAmCb2D2JXX6Q&3U1G7qaTxrPbalZnEx=1707010390
 
+#EXTINF:-1 group-title="Canais aberto",REDE TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/259
+
+#EXTINF:-1 group-title="Canais aberto",REDE TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/258
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Canais aberto",BAND RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/248
 
@@ -358,87 +364,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34020
 
 
 
-#EXTINF:-1,PRIME BOX BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/794
-#EXTINF:-1,PRIME BOX BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/793
-#EXTINF:-1,PRIME BOX BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65325
-#EXTINF:-1,Record 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/219
-#EXTINF:-1,RECORD AL
-http://voz.one:80/alexfnt/vTFBGKdUYq/288
-#EXTINF:-1,Record BA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65252
-#EXTINF:-1,RECORD BELÉM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/287
-#EXTINF:-1,RECORD BRASILIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/273
-#EXTINF:-1,RECORD CAMPINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/275
-#EXTINF:-1,RECORD CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/276
-#EXTINF:-1,RECORD GO HD 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/279
-#EXTINF:-1,RECORD GOIAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/258096
-#EXTINF:-1,RECORD GOIAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/258097
-#EXTINF:-1,RECORD MANAUS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/314
-#EXTINF:-1,RECORD MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/285
-#EXTINF:-1,RECORD NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/689
 
-#EXTINF:-1,RECORD NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/690
-#EXTINF:-1,RECORD PARANA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/46130
-#EXTINF:-1,RECORD PARANA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/46129
-#EXTINF:-1,RECORD PARANA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/271
-#EXTINF:-1,RECORD PR
-http://voz.one:80/alexfnt/vTFBGKdUYq/272
-#EXTINF:-1,RECORD RJ FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/289
 
-#EXTINF:-1,RECORD RJ SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/290
-#EXTINF:-1,Record RS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64242
-#EXTINF:-1,RECORD RS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/292
-#EXTINF:-1,RECORD SC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/293
-#EXTINF:-1,RECORD SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/294
-#EXTINF:-1,RECORD SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/295
-#EXTINF:-1,RECORD SP SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/296
-#EXTINF:-1,RECORD TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/277
-#EXTINF:-1,RECORD TV CIDADE CE
-http://voz.one:80/alexfnt/vTFBGKdUYq/131019
-#EXTINF:-1,Redbull TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65294
-
-#EXTINF:-1,Rede Familia FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65387
-#EXTINF:-1,REDE FURACÃO
-http://voz.one:80/alexfnt/vTFBGKdUYq/45876
-#EXTINF:-1,Rede Genesis FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65388
-#EXTINF:-1,Rede Genesis SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65389
-#EXTINF:-1,REDE MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45894
-#EXTINF:-1,REDE TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/258
-#EXTINF:-1,REDE TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/259
 #EXTINF:-1,Rede TV! 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/236
 #EXTINF:-1,Rede VIDA
