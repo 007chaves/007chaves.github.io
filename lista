@@ -29,7 +29,8 @@ https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=isITmy3IPz03nU
 
 
 
-############################ --------  #################################
+######################################### Canais Aberto  ################################################
+
 
 #EXTINF:-1, group-title="Canais aberto" TV APARECIDA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/727
@@ -52,21 +53,49 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/248
 #EXTINF:0 group-title="Canais aberto", Band RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
+#EXTINF:-1,RECORD RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/291
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Canais aberto", Record RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=F0iBaLcapGu2dmdJJDFYQw&3U1G7qaTxrPbalZnEx=1707010609
 
+######################################### Variedades  ################################################
 
+#EXTINF:-1,VIVA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/786
+
+#EXTINF:-1,MULTISHOW HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/775
+
+#EXTINF:-1,MTV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/790
+
+#EXTINF:-1,MTV 00s HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65333
+
+#EXTINF:-1,MTV Live HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65331
+
+#EXTINF:-1,A&E HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/419
+
+
+######################################### Filmes  ################################################
 
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes ", Cinemax
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
+######################################### Noticias  ################################################
+#EXTINF:-1,BAND NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/683
+
+######################################### Futebol ################################################
 
 #EXTINF:-1,A&E (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13848
 #EXTINF:-1,A&E FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/418
-#EXTINF:-1,A&E HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/419
+
 #EXTINF:-1,A&E SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/420
 #EXTINF:-1,AMAZON PRIME JOGO 1
@@ -125,36 +154,10 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34014
 http://voz.one:80/alexfnt/vTFBGKdUYq/34012
 #EXTINF:-1,BABY TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/619
-#EXTINF:-1,Band
-http://voz.one:80/alexfnt/vTFBGKdUYq/65271
-#EXTINF:-1,Band 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/218
-#EXTINF:-1,BAND BAHIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/93635
-#EXTINF:-1,BAND BRASILIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/96148
-#EXTINF:-1,BAND CAMPINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96149
-#EXTINF:-1,BAND CAMPINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/242
-#EXTINF:-1,BAND CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/241
-#EXTINF:-1,BAND CURITIBA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/244
-#EXTINF:-1,BAND GOIANIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/247
-#EXTINF:-1,BAND MG 
-http://voz.one:80/alexfnt/vTFBGKdUYq/95808
-#EXTINF:-1,BAND MG FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56237
-#EXTINF:-1,BAND MG HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56236
-#EXTINF:-1,Band News (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13852
+
 #EXTINF:-1,BAND NEWS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/682
-#EXTINF:-1,BAND NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/683
+
 #EXTINF:-1,BAND NEWS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/687
 #EXTINF:-1,BAND RJ
@@ -1002,16 +1005,16 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/65335
 http://voz.one:80/alexfnt/vTFBGKdUYq/65336
 #EXTINF:-1,MTV (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13902
-#EXTINF:-1,MTV 00s HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65333
+
+
+
+
 #EXTINF:-1,MTV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/771
-#EXTINF:-1,MTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/790
+
 #EXTINF:-1,MTV Live FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65330
-#EXTINF:-1,MTV Live HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65331
+
 #EXTINF:-1,MTV Live SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65332
 #EXTINF:-1,MTV SD
@@ -1022,8 +1025,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/13903
 http://voz.one:80/alexfnt/vTFBGKdUYq/235
 #EXTINF:-1,MULTISHOW FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/774
-#EXTINF:-1,MULTISHOW HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/775
+
 #EXTINF:-1,MULTISHOW SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/776
 #EXTINF:-1,Music Box Brasil FHD
@@ -1216,8 +1218,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/271
 http://voz.one:80/alexfnt/vTFBGKdUYq/272
 #EXTINF:-1,RECORD RJ FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/289
-#EXTINF:-1,RECORD RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/291
+
 #EXTINF:-1,RECORD RJ SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/290
 #EXTINF:-1,Record RS HD
@@ -1513,8 +1514,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/812
 http://voz.one:80/alexfnt/vTFBGKdUYq/813
 #EXTINF:-1,TELECINE TOUCH SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/814
-#EXTINF:-1,TERRA VIVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45889
+
 #EXTINF:-1,TLC (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13933
 #EXTINF:-1,TMC FHD
@@ -1614,8 +1614,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/477
 http://voz.one:80/alexfnt/vTFBGKdUYq/89356
 #EXTINF:-1,VIVA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/784
-#EXTINF:-1,VIVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/786
+
 #EXTINF:-1,VIVA SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/785
 #EXTINF:-1,Warner (H265)
