@@ -32,7 +32,7 @@ https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=isITmy3IPz03nU
 ######################################### Canais Aberto  ################################################
 
 
-#EXTINF:-1, group-title="Canais aberto" TV APARECIDA HD
+#EXTINF:-1 group-title="Canais aberto" TV APARECIDA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/727
 
 #EXTINF:-1 group-title="Canais aberto", FUTURA HD
@@ -47,7 +47,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hFt3Rm.png" group-title="Canais aberto",GLOBO RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45803
 
-#EXTINF:0  group-title="Canais aberto", Globo RJ (alternativo)
+#EXTINF:0 group-title="Canais aberto", Globo RJ (alternativo)
 https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=fM1bHVotMWAmCb2D2JXX6Q&3U1G7qaTxrPbalZnEx=1707010390
 
 #EXTINF:-1 group-title="Canais aberto",REDE TV HD
@@ -62,10 +62,10 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/248
 #EXTINF:0 group-title="Canais aberto", Band RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
-#EXTINF:-1,BAND SP HD
+#EXTINF:-1 group-title="Canais aberto,BAND SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/251
 
-#EXTINF:-1,RECORD RJ HD
+#EXTINF:-1 group-title="Canais aberto,RECORD RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/291
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Canais aberto", Record RJ (Alternativo)
