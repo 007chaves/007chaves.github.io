@@ -21,18 +21,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/258180
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Sala
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanha a casa 1 (Alternativo)
-https://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=7AqKuvMtx0AKikiTC-bqxA&3U1G7qaTxrPbalZnEx=1707007968
-
-#EXTINF:0 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Acompanhe a casa 2 (Alternativo) 
-https://s.m3u9.top/a2/hls1/bbb24s02/__index.m3u8?mu3zAQc9HC3GbwJq=isITmy3IPz03nUtqnbG3QA&3U1G7qaTxrPbalZnEx=1707008042
-
 
 
 ######################################### Canais Aberto  ################################################
 
 
-#EXTINF:-1 group-title="Canais aberto" TV APARECIDA HD
+#EXTINF:-1 group-title="Canais aberto", TV APARECIDA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/727
 
 #EXTINF:-1 group-title="Canais aberto", FUTURA HD
@@ -76,7 +70,6 @@ https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGP
 
 #EXTINF:-1 group-title="Canais aberto",BAND SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/251
-
 
 #EXTINF:-1 group-title="Canais aberto",SBT RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/313
@@ -280,7 +273,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/344
 http://voz.one:80/alexfnt/vTFBGKdUYq/345
 #EXTINF:-1 group-title="Filmes",SKY PLAY 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/346
-#EXTINF:-1 group-title="Filmes",SKY PLAY 05
+#EXTINF:-1 group-title="Filmes", SKY PLAY 05
 http://voz.one:80/alexfnt/vTFBGKdUYq/324
 #EXTINF:-1 group-title="Filmes",SKY PLAY 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/338
@@ -298,14 +291,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/340
 
 #EXTINF:-1 group-title="Filmes",PARAMOUNT CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/452
-#EXTINF:-1 group-title="Filmes",Paramount+ 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84448
-#EXTINF:-1 group-title="Filmes",Paramount+ 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84449
-#EXTINF:-1 group-title="Filmes",Paramount+ 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84450
-#EXTINF:-1 group-title="Filmes",Paramount+ 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/84451
+
 
 
 
@@ -393,6 +379,14 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/372
 #EXTINF:-1 group-title="Esportes",BAND SPORTS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/387
 
+#EXTINF:-1 group-title="Esportes", Paramount+ 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84448
+#EXTINF:-1 group-title="Esportes", Paramount+ 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84449
+#EXTINF:-1 group-title="Esportes", Paramount+ 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84450
+#EXTINF:-1 group-title="Esportes", Paramount+ 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84451
 
 #EXTINF:-1 group-title="Esportes",CAZE TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/133932
@@ -479,8 +473,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95746
 http://voz.one:80/alexfnt/vTFBGKdUYq/95747
 #EXTINF:-1 group-title="24 Horas",[24H] MASCARA
 http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1 group-title="24 Horas",[24H] Mortal Kombat
-http://voz.one:80/alexfnt/vTFBGKdUYq/95752
 #EXTINF:-1 group-title="24 Horas",[24H] Mr.Ben
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
 #EXTINF:-1 group-title="24 Horas",[24H] O Maskara
@@ -501,15 +493,13 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95771
 http://voz.one:80/alexfnt/vTFBGKdUYq/95774
 #EXTINF:-1 group-title="24 Horas",[24H] Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTINF:-1,[24H] Timao e Pumba
-http://voz.one:80/alexfnt/vTFBGKdUYq/95777
 #EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
 #EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
 #EXTINF:-1 group-title="24 Horas",[24H] Tom & Jerry
 http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:-1,[24H] Um Maluco no Pedaço 1
+#EXTINF:-1 group-title="24 Horas",[24H] Um Maluco no Pedaço 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95705
 #EXTINF:-1 group-title="24 Horas",[24H] Um Maluco no Pedaço 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95706
