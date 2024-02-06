@@ -25,18 +25,37 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/258180
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Sala
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Quarto Magia
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bbb04hd/tracks-v1a1/mono.m3u8?md5=VUwAyD69YXjpBtSWNjoILA&expires=1707216689
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Chuveiro
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bbb08hd/tracks-v1a1/mono.m3u8?md5=FdWaiNZ6x95iQ4HBHp-AJA&expires=1707216904
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2¹ (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01¹ piscina (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326625.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02¹ quarto magia (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326626.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03¹ quarto fada (alternativo)
+http://10gbfdc1.online:8080/live/15junior/as1266375/326581.m3u8?token=TxRaWEpeRw5HVVhRUg9aAFZRBAsAVVINVgxXAlFSAwVSAFYBCAIHBVIVFURDTEtUUQ49UFNGDgcAAwEKU09EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcADggPRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGVRUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFwCXAMbGw==
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04¹ quarto gnomo (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326581.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05¹ sala (alternativo)
+http://10gbfdc1.online:8080/live/15junior/as1266375/326582.m3u8?token=TxRaWEpeRw5HBgBfB1paBQMHVAkAUgEGAgEMBFsHAlVVDwVaClQEVlIVFURDTEtUUQ49UFNGDgcAAwEKUE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcEDw8PRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGUBUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFQGUQELRE0=
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06¹ cozinha delicia (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ academia (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Jardim
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bbb09hd/tracks-v1a1/mono.m3u8?md5=JUTBh0lIvZM55r9grkO0Jw&expires=1707217156
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Cozinha
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bbb10hd/tracks-v1a1/mono.m3u8?md5=mnqp1rPve3DGZ6k85kwQRQ&expires=1707217156
 
 ######################################### Canais Aberto  ################################################
 
