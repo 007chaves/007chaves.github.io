@@ -25,65 +25,66 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/258180
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/ugId2amQ6SVnK2UDn2HC-RGGEj0=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/r/VrkHb1QeGn1tqZHKERqw/maxresdefault.jpeg" group-title="BBB", Sala
 http://voz.one:80/alexfnt/vTFBGKdUYq/258182
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2¹ (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2¹ (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01¹ piscina (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01¹ piscina (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326625.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02¹ quarto magia (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02¹ quarto magia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326626.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03¹ quarto fada (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03¹ quarto fada (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326581.m3u8?token=TxRaWEpeRw5HVVhRUg9aAFZRBAsAVVINVgxXAlFSAwVSAFYBCAIHBVIVFURDTEtUUQ49UFNGDgcAAwEKU09EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcADggPRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGVRUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFwCXAMbGw==
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04¹ quarto gnomo (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04¹ quarto gnomo (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326581.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05¹ sala (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05¹ sala (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326582.m3u8?token=TxRaWEpeRw5HBgBfB1paBQMHVAkAUgEGAgEMBFsHAlVVDwVaClQEVlIVFURDTEtUUQ49UFNGDgcAAwEKUE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcEDw8PRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGUBUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFQGUQELRE0=
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06¹ cozinha delicia (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06¹ cozinha delicia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ jardim (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ jardim (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC² (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC² (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326637.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2² (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2² (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326638.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01² piscina (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01² piscina (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326635.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02² quarto magia (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02² quarto magia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326628.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03² quarto fada (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03² quarto fada (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326629.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04² quarto gnomo (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04² quarto gnomo (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326630.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05² sala (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05² sala (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326631.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06² cozinha delicia (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06² cozinha delicia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326632.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07² chuveiro (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07² chuveiro (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326633.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08² jardim (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08² jardim (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326634.m3u8
+
 
 
 ######################################### Canais Aberto  ################################################
