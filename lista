@@ -52,9 +52,38 @@ http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (alternativo)
 http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ academia (alternativo)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ jardim (alternativo)
 http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC² (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326637.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2² (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326638.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01² piscina (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326635.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02² quarto magia (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326628.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03² quarto fada (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326629.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04² quarto gnomo (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326630.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05² sala (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326631.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06² cozinha delicia (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326632.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07² chuveiro (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326633.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08² jardim (alternativo)
+http://7go.xyz:8080/live/15junior/as1266375/326634.m3u8
 
 
 ######################################### Canais Aberto  ################################################
