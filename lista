@@ -250,128 +250,112 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/765
 
 ######################################### Filmes  ################################################
 
-#EXTINF:-1 group-title="Filmes",AXN HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="Filmes",AXN HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/425
 
-#EXTINF:-1 group-title="Filmes",AMC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lIF9Ws.png" group-title="Filmes",AMC HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/422
 
-#EXTINF:-1 group-title="Filmes",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CasscAC.png" group-title="Filmes",STUDIO UNIVERSAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/461
 
-#EXTINF:-1 group-title="Filmes",Canal Sony (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13857
-
-#EXTINF:-1 group-title="Filmes",SONY HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m6Q6egx.png" group-title="Filmes",SONY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/455
 
-#EXTINF:-1 group-title="Filmes",CANAL BRASIL HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bJ9QJkG.png" group-title="Filmes",CANAL BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45880
 
-#EXTINF:-1 group-title="Filmes",CINE CANAL HD
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9431c26909c7_cinecanal.png" group-title="Filmes",CINE CANAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
 
-#EXTINF:-1 group-title="Filmes",CINEMAX HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes",CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
 
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes", Cinemax (Alternativo)
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
-#EXTINF:-1 group-title="Filmes",FX HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JZyjyAx.png" group-title="Filmes",FX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/443
 
-#EXTINF:-1 group-title="Filmes",HBO HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="Filmes",HBO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/601
-#EXTINF:-1 group-title="Filmes",HBO 2 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/e9/80/20e9809bf38687a67c65d63309dbb461.png" group-title="Filmes",HBO 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1 group-title="Filmes",HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a6/fd/c5/a6fdc5495a1a07ebc8fe692135d8de28.png" group-title="Filmes",HBO FAMILY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/598
-#EXTINF:-1 group-title="Filmes",HBO MAX 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/57702
-#EXTINF:-1 group-title="Filmes",HBO MAX 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/57703
-#EXTINF:-1 group-title="Filmes",HBO MAX 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/57704
-#EXTINF:-1 group-title="Filmes",HBO MAX 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/66044
-#EXTINF:-1 group-title="Filmes",HBO MAX 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/124780
-#EXTINF:-1 group-title="Filmes",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="Filmes",HBO MUNDI HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/603
-#EXTINF:-1 group-title="Filmes",HBO PLUS HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/50/a0/8050a056da95a9914b41b7c5224421fa.png" group-title="Filmes",HBO PLUS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/606
-#EXTINF:-1 group-title="Filmes",HBO POP HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="Filmes",HBO POP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/609
-#EXTINF:-1 group-title="Filmes",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/6c/aa/9e6caa815f658461e951c6f641a5c75c.png" group-title="Filmes",HBO SIGNATURE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/613
-#EXTINF:-1 group-title="Filmes",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/1a/03/171a038725355d79efd25f80e27c2adf.png" group-title="Filmes",HBO Xtreme HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/616
 
-#EXTINF:-1 group-title="Filmes",MEGAPIX HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TQcRCpq.png" group-title="Filmes",MEGAPIX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/449
 
-#EXTINF:-1 group-title="Filmes",SPACE HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4nOIY84.png" group-title="Filmes",SPACE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/458
 
-#EXTINF:-1 group-title="Filmes",SYFY HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wObhLpt.png" group-title="Filmes",SYFY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/464
 
-#EXTINF:-1 group-title="Filmes",TBC BRASIL CENTRAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/131020
-#EXTINF:-1 group-title="Filmes",TCM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/467
-#EXTINF:-1 group-title="Filmes",TELECINE ACTION HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/799
-#EXTINF:-1 group-title="Filmes",TELECINE CULT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/802
-#EXTINF:-1 group-title="Filmes",TELECINE FUN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/805
-#EXTINF:-1 group-title="Filmes",TELECINE PIPOCA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/807
-#EXTINF:-1 group-title="Filmes",TELECINE PREMIUM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/810
-#EXTINF:-1 group-title="Filmes",TELECINE TOUCH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/813
-#EXTINF:-1 group-title="Filmes",TELECINE TOUCH SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/814
-#EXTINF:-1 group-title="Filmes",TLC (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13933
-#EXTINF:-1 group-title="Filmes",TNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/470
-#EXTINF:-1 group-title="Filmes",TNT SERIES HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/473
-#EXTINF:-1 group-title="Filmes",TNT SERIES SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/474
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/a2/23/21a223bfeadcd389c343509ae9026095.png" group-title="Esportes",STAR CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/431
 
-#EXTINF:-1 group-title="Filmes",WARNER CHANNEL HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xQJlpvw.png" group-title="Filmes",TCM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/467
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="Filmes",TELECINE ACTION HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/799
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="Filmes",TELECINE CULT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/802
+#EXTINF:-1 tvg-logo="http://i.imgur.com/im2G2p2.png" group-title="Filmes",TELECINE FUN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/805
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="Filmes",TELECINE PIPOCA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/807
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="Filmes",TELECINE PREMIUM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/810
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="Filmes",TELECINE TOUCH HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/813
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/617/925/png-transparent-tlc-television-show-logo-business-animal-family-television-text-trademark.png" group-title="Filmes",TLC (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13933
+#EXTINF:-1 tvg-logo="http://i.imgur.com/miqElqb.png" group-title="Filmes",TNT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/470
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-05V2YzmzWX8/Xo-vi41lnTI/AAAAAAABkso/XIYtSWTe5sAtiS9sDTpoJwDe6f6CJ-OdgCLcBGAsYHQ/s640/tntseries_Turner.png" group-title="Filmes",TNT SERIES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/473
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tKAIKYM.png" group-title="Filmes",PARAMOUNT CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/4522
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RuCNvi1.png" group-title="Filmes",WARNER CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/479
 
-#EXTINF:-1 group-title="Filmes",SKY PLAY 01
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/343
-#EXTINF:-1 group-title="Filmes",SKY PLAY 02
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 02
 http://voz.one:80/alexfnt/vTFBGKdUYq/344
-#EXTINF:-1 group-title="Filmes",SKY PLAY 03
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 03
 http://voz.one:80/alexfnt/vTFBGKdUYq/345
-#EXTINF:-1 group-title="Filmes",SKY PLAY 04
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/346
-#EXTINF:-1 group-title="Filmes", SKY PLAY 05
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes", SKY PLAY 05
 http://voz.one:80/alexfnt/vTFBGKdUYq/324
-#EXTINF:-1 group-title="Filmes",SKY PLAY 06
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/338
-#EXTINF:-1 group-title="Filmes",SKY PLAY 07
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 07
 http://voz.one:80/alexfnt/vTFBGKdUYq/333
-#EXTINF:-1 group-title="Filmes",SKY PLAY 08
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 08
 http://voz.one:80/alexfnt/vTFBGKdUYq/339
-#EXTINF:-1 group-title="Filmes",SKY PLAY 09
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 09
 http://voz.one:80/alexfnt/vTFBGKdUYq/342
-#EXTINF:-1 group-title="Filmes",SKY PLAY 10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/335
-#EXTINF:-1 group-title="Filmes",SKY PLAY 11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 11
 http://voz.one:80/alexfnt/vTFBGKdUYq/340
 
 
-#EXTINF:-1 group-title="Filmes",PARAMOUNT CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/452
 
 
 
