@@ -108,65 +108,65 @@ http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 
 ######################################### Canais Aberto  ################################################
 
-
-
-
-#EXTINF:-1 group-title="Canais aberto", TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/TV_Aparecida#/media/Ficheiro:Logotipo_da_TV_Aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/727
 
-#EXTINF:-1 group-title="Canais aberto", FUTURA HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/255
 
-#EXTINF:-1 group-title="Canais aberto",TV BRASIL HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/263
 
-#EXTINF:-1 group-title="Canais aberto",TV CULTURA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSMTaN1b.jpg" group-title="Canais aberto",TV CULTURA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/254
 
-#EXTINF:-1 group-title="Canais aberto",Tv Escola
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
 http://voz.one:80/alexfnt/vTFBGKdUYq/45929
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais aberto", Rede Brasil TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/45915
 
-#EXTINF:-1 group-title="Canais aberto",Rede VIDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
 http://voz.one:80/alexfnt/vTFBGKdUYq/96152
 
-#EXTINF:-1 " group-title="Canais aberto", Rede Brasil (Alternativo)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="Canais aberto", Rede Brasil (Alternativo)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hFt3Rm.png" group-title="Canais aberto",GLOBO RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45803
 
-#EXTINF:0 group-title="Canais aberto", Globo RJ (alternativo)
+#EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
 https://s.m3u9.top/a2/hls1/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=fM1bHVotMWAmCb2D2JXX6Q&3U1G7qaTxrPbalZnEx=1707010390
 
-#EXTINF:-1 group-title="Canais aberto",REDE TV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/259
 
-#EXTINF:-1 group-title="Canais aberto",REDE TV FHD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/258
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Canais aberto",BAND RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/248
 
-#EXTINF:0 group-title="Canais aberto", Band RJ (Alternativo)
+#EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Canais aberto", Band RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
 
-#EXTINF:-1 group-title="Canais aberto",BAND SP HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/251
 
-#EXTINF:-1 group-title="Canais aberto",SBT RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/313
 
-#EXTINF:-1 group-title="Canais aberto",SBT SP HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/311
 
-#EXTINF:-1 group-title="Canais aberto",RECORD RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto",RECORD RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/291
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Canais aberto", Record RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=F0iBaLcapGu2dmdJJDFYQw&3U1G7qaTxrPbalZnEx=1707010609
+
+
+
 
 ######################################### Variedades  ################################################
 
