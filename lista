@@ -108,7 +108,7 @@ http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 
 ######################################### Canais Aberto  ################################################
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/TV_Aparecida#/media/Ficheiro:Logotipo_da_TV_Aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/727
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
@@ -117,7 +117,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/255
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/263
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FSMTaN1b.jpg" group-title="Canais aberto",TV CULTURA HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/254
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
@@ -132,7 +132,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/96152
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="Canais aberto", Rede Brasil (Alternativo)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1hFt3Rm.png" group-title="Canais aberto",GLOBO RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45803
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
@@ -162,91 +162,87 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/311
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto",RECORD RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/291
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QAyakkR.png" group-title="Canais aberto", Record RJ (Alternativo)
+#EXTINF:0 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto", Record RJ (Alternativo)
 https://s.m3u9.top/a2/hls1/record/__index.m3u8?mu3zAQc9HC3GbwJq=F0iBaLcapGu2dmdJJDFYQw&3U1G7qaTxrPbalZnEx=1707010609
-
-
-
 
 ######################################### Variedades  ################################################
 
-#EXTINF:-1 group-title="Variedades",VIVA HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="Variedades",VIVA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/786
 
-#EXTINF:-1 group-title="Variedades",MULTISHOW HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/775
 
-#EXTINF:-1 group-title="Variedades",MTV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="Variedades",MTV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/790
 
-#EXTINF:-1 group-title="Variedades",MTV 00s HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/048gBVZ.png" group-title="Variedades",MTV 00s HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65333
 
-#EXTINF:-1 group-title="Variedades",MTV Live HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hwSi0K7.png" group-title="Variedades",MTV Live HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65331
 
-#EXTINF:-1 group-title="Variedades",BIS HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="Variedades",BIS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/755
 
-#EXTINF:-1 group-title="Variedades",Music Box Brasil HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="Variedades",Music Box Brasil HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45888
 
-#EXTINF:-1 group-title="Variedades",Music Top HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65328
-
-#EXTINF:-1 group-title="Variedades",A&E HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UW8TbUl.png" group-title="Variedades",A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/419
 
-#EXTINF:-1 group-title="Variedades",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FSpBdys.png" group-title="Variedades",ANIMAL PLANET HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/2
 
-#EXTINF:-1 group-title="Variedades",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Variedades",DISCOVERY CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/5
-#EXTINF:-1 group-title="Variedades",DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="Variedades",DISCOVERY HOME & HEALTH HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/8
-#EXTINF:-1 group-title="Variedades",DISCOVERY KIDS HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="Variedades",DISCOVERY KIDS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/629
-#EXTINF:-1 group-title="Variedades",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="Variedades",DISCOVERY SCIENCE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/11
-#EXTINF:-1 group-title="Variedades",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQxMEB5b.jpg" group-title="Variedades",DISCOVERY THEATER HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/14
-#EXTINF:-1 group-title="Variedades",DISCOVERY TLC HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="Variedades",DISCOVERY TLC HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/17
-#EXTINF:-1 group-title="Variedades",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="Variedades",DISCOVERY TURBO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/20
-#EXTINF:-1 group-title="Variedades",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="Variedades",DISCOVERY WORLD HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/23
-#EXTINF:-1 group-title="Variedades",ID - INVESTIGAÇÃO DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DlYQyVzb.jpg" group-title="Variedades",ID - INVESTIGAÇÃO DISCOVERY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/37
-#EXTINF:-1 group-title="Variedades",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="Variedades",HISTORY CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/33
-#EXTINF:-1 group-title="Variedades",H2 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gyOMqU8.png" group-title="Variedades",H2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/30
-#EXTINF:-1 group-title="Variedades",E! HD
+#EXTINF:-1 tvg-logo="https://www.channelguidemag.com/wp-content/uploads/2010/03/e-logo.jpg" group-title="Variedades",E! HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/763
-#EXTINF:-1 group-title="Variedades",HGTV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dkfsmqU.png" group-title="Variedades",HGTV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/770
-#EXTINF:-1 group-title="Variedades",LIFETIME HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iTya3Vq.png" group-title="Variedades",LIFETIME HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/446
-#EXTINF:-1 group-title="Variedades",FASHION TV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Z6Zsq2.png" group-title="Variedades",FASHION TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64387
-#EXTINF:-1 group-title="Variedades",FILM & ART HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gAgOzh8.png" group-title="Variedades",FILM & ART HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45878
-#EXTINF:-1 group-title="Variedades",NATGEO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/39
-#EXTINF:-1 group-title="Variedades",NATIONAL GEOGRAPHIC HD
+
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/national-geographic-logo-png-ng-logo-gray-png-2000.png" group-title="Variedades",NATIONAL GEOGRAPHIC HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/42
 
-#EXTINF:-1 group-title="Variedades",ARTE 1 HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Variedades",NatGeo Wild (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13905
+
+#EXTINF:-1 tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="Variedades",ARTE 1 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/788
 
-#EXTINF:-1 group-title="Variedades",COMBATE HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="Variedades",COMBATE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/352
 
-#EXTINF:-1 group-title="Variedades",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/13/f5/f713f5d4cf33483c988c62dac64c67ef.png" group-title="Variedades",COMEDY CENTRAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/758
 
-#EXTINF:-1 group-title="Variedades",GNT HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uS0lrJB.png" group-title="Variedades",GNT HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/765
 
 
