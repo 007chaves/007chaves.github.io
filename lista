@@ -556,15 +556,15 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95706
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNvMolV_d.webp?maxwidth=128&shape=thumb" group-title="24 Horas",[24H] X-MEN
 http://voz.one:80/alexfnt/vTFBGKdUYq/95780
 
-
-#EXTINF:-1  group-title="24 Horas",[24H] JIRAYA O Incrível Ninja
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kNvMolV_d.webp?maxwidth=128&shape=thumb" group-title="24 Horas",[24H] JIRAYA O Incrível Ninja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:-1  group-title="24 Horas",[24H] O Maskara
+#EXTINF:-1  tvg-logo="https://media.fstatic.com/lMhg4n4Vgh3dV_GfAPlUMFWiKq0=/322x478/smart/filters:format(webp)/media/movies/covers/2012/12/e6edbfcdf55cb359f902cd2e6cb2f703.jpg" group-title="24 Horas",[24H] O Maskara
 http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1  group-title="24 Horas",[24H] Os Vingadores
+#EXTINF:-1  tvg-logo="https://i0.wp.com/www.crossovernerd.com/wp-content/uploads/2020/04/capa-1.jpg?resize=1536%2C864&ssl=1" group-title="24 Horas",[24H] Os Vingadores
 http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:-1  group-title="24 Horas",[24H] Scooby-Doo
+#EXTINF:-1  tvg-logo="https://media.fstatic.com/3R_KHsOvMdrFNsAlGh-49Kl1SAo=/322x478/smart/filters:format(webp)/media/movies/covers/2016/09/280full_uqM2u7K.jpg" group-title="24 Horas",[24H] Scooby-Doo
 http://voz.one:80/alexfnt/vTFBGKdUYq/95771
+
 
 ######################################### Radios ################################################
 
