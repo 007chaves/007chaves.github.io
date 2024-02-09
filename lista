@@ -505,74 +505,66 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/131017
 
 ######################################### 24Horas ################################################
 
-#EXTINF:-1 group-title="24 Horas",[24H] Chapolin colorado
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R92UM27.jpg" group-title="24 Horas",[24H] Chapolin colorado
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:-1 group-title="24 Horas",[24H] Chapolin Colorado 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R92UM27.jpg" group-title="24 Horas",[24H] Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:-1 group-title="24 Horas",[24H] Chaves
+#EXTINF:-1 tvg-logo="http://i.imgur.com/02OGxtq.png" group-title="24 Horas",[24H] Chaves
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:-1 group-title="24 Horas",[24H] Eu a Patroa e as Crianças 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PCREZQk.jpg" group-title="24 Horas",[24H] Eu a Patroa e as Crianças 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTINF:-1 group-title="24 Horas",[24H] Eu a Patroa e as Crianças 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PCREZQk.jpg" group-title="24 Horas",[24H] Eu a Patroa e as Crianças 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTINF:-1 group-title="24 Horas",[24H] He-Man
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f6SrHmg.jpg" group-title="24 Horas",[24H] He-Man
 http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTINF:-1 group-title="24 Horas",[24H] Hercules
+#EXTINF:-1 tvg-logo="http://7go.xyz:8080/images/3c26f40fd8c2a532097c5f7d07c1933f.jpg" group-title="24 Horas",[24H] Hercules
 http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTINF:-1 group-title="24 Horas",[24H] Homem aranha
+#EXTINF:-1 tvg-logo="http://7go.xyz:8080/images/86ba885b99a5997580efaa9fdc297beb.jpg" group-title="24 Horas",[24H] Homem aranha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTINF:-1 group-title="24 Horas",[24H] Jack Chan
-http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:-1 group-title="24 Horas",[24H] Jaclkie Chan 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1 group-title="24 Horas",[24H] Jaspion
+#EXTINF:-1 tvg-logo="http://7go.xyz:8080/images/c84d502c9996ce49e22305945368996c.jpeg" group-title="24 Horas",[24H] Jaspion
 http://voz.one:80/alexfnt/vTFBGKdUYq/95744
-#EXTINF:-1 group-title="24 Horas",[24H] JIRAYA O Incrível Ninja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:-1 group-title="24 Horas",[24H] Kenan e Kel
-http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTINF:-1 group-title="24 Horas",[24H] KPOP TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTINF:-1 group-title="24 Horas",[24H] MASCARA
-http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1 group-title="24 Horas",[24H] Mr.Ben
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nKBmdJU.jpg" group-title="24 Horas",[24H] Mr.Bean
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 group-title="24 Horas",[24H] O Maskara
-http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:-1 group-title="24 Horas",[24H] Os Simpsons 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:-1 group-title="24 Horas",[24H] Os Vingadores
-http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:-1 group-title="24 Horas",[24H] Scooby-Doo
-http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTINF:-1 group-title="24 Horas",[24H] Thundercats
+#EXTINF:-1 tvg-logo="http://7go.xyz:8080/images/0fc7e5f4e202f75870eb0233d604123e.jpg" group-title="24 Horas",[24H] Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTINF:-1 group-title="24 Horas",[24H] Thundercats
+#EXTINF:-1 tvg-logo="http://7go.xyz:8080/images/0fc7e5f4e202f75870eb0233d604123e.jpg" group-title="24 Horas",[24H] Thundercats
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3JMSyrr.jpg" group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1 group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3JMSyrr.jpg" group-title="24 Horas",[24H] Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:-1 group-title="24 Horas",[24H] Tom & Jerry
-http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:-1 group-title="24 Horas",[24H] Um Maluco no Pedaço 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTINF:-1 group-title="24 Horas",[24H] Um Maluco no Pedaço 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTINF:-1 group-title="24 Horas",[24H] Vai que Cola 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qa1F89Y.jpg" group-title="24 Horas",[24H] Vai que Cola 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTINF:-1 group-title="24 Horas",[24H] Vai que Cola 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qa1F89Y.jpg" group-title="24 Horas",[24H] Vai que Cola 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTINF:-1 group-title="24 Horas",[24H] X-MEN
-http://voz.one:80/alexfnt/vTFBGKdUYq/95780
-#EXTINF:-1 group-title="24 Horas",[24H] Escolinha do professor Raimundo 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ywd0No1.jpg" group-title="24 Horas",[24H] Escolinha do professor Raimundo 
 http://7go.xyz:8080/live/15junior/as1266375/170677.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wkWclbH.jpg" group-title="24 Horas",[24H] A Grande Familia
+http://7go.xyz:8080/live/15junior/as1266375/170663.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWK7gmG.jpeg" group-title="24 Horas",[24H] Os Simpsons 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/95691
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWK7gmG.jpeg" group-title="24 Horas",[24H] Os Simpsons 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/95692
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWK7gmG.jpeg" group-title="24 Horas",[24H] Os Simpsons 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/95693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWK7gmG.jpeg" group-title="24 Horas",[24H] Os Simpsons 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/95694
+#EXTINF:-1 tvg-logo="https://www.devotudoaocinema.com.br/content/uploads/2019/09/81ZPoXiAd4L._RI_-1068x801.jpg" group-title="24 Horas",[24H] Um Maluco no Pedaço 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95705
+#EXTINF:-1 tvg-logo="https://www.devotudoaocinema.com.br/content/uploads/2019/09/81ZPoXiAd4L._RI_-1068x801.jpg" group-title="24 Horas",[24H] Um Maluco no Pedaço 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95706
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNvMolV_d.webp?maxwidth=128&shape=thumb" group-title="24 Horas",[24H] X-MEN
+http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+
+
+#EXTINF:-1  group-title="24 Horas",[24H] JIRAYA O Incrível Ninja
+http://voz.one:80/alexfnt/vTFBGKdUYq/95745
+#EXTINF:-1  group-title="24 Horas",[24H] O Maskara
+http://voz.one:80/alexfnt/vTFBGKdUYq/95756
+#EXTINF:-1  group-title="24 Horas",[24H] Os Vingadores
+http://voz.one:80/alexfnt/vTFBGKdUYq/95761
+#EXTINF:-1  group-title="24 Horas",[24H] Scooby-Doo
+http://voz.one:80/alexfnt/vTFBGKdUYq/95771
 
 ######################################### Radios ################################################
 
