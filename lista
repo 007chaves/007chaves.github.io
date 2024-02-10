@@ -171,7 +171,7 @@ http://7go.xyz:8080/live/15junior/as1266375/22601.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="Variedades",VIVA HD
 http://7go.xyz:8080/live/15junior/as1266375/18881.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD max
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD
 http://7go.xyz:8080/live/15junior/as1266375/125690.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="Variedades",MTV HD
@@ -441,8 +441,8 @@ http://7go.xyz:8080/live/15junior/as1266375/18592.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/latMeUP.png" group-title="Noticias",CNN BRASIL HD
 http://7go.xyz:8080/live/15junior/as1266375/18642.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="Noticias",GLOBO NEWS HD max
-http://7go.xyz:8080/live/15junior/as1266375/18645.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="Noticias",GLOBO NEWS HD
+http://7go.xyz:8080/live/15junior/as1266375/22542.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="Noticias",JP NEWS HD
 http://7go.xyz:8080/live/15junior/as1266375/64581.m3u8
