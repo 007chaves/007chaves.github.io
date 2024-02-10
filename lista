@@ -153,9 +153,6 @@ http://7go.xyz:8080/live/15junior/as1266375/22466.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="Variedades",Music Box Brasil HD
 http://7go.xyz:8080/live/15junior/as1266375/64723.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UW8TbUl.png" group-title="Variedades",A&E HD
-http://7go.xyz:8080/live/15junior/as1266375/18787.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FSpBdys.png" group-title="Variedades",ANIMAL PLANET HD
 http://7go.xyz:8080/live/15junior/as1266375/18789.m3u8
 
@@ -232,6 +229,8 @@ http://7go.xyz:8080/live/15junior/as1266375/18832.m3u8
 ######################################### Filmes  ################################################
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UW8TbUl.png" group-title="Variedades",A&E HD
+http://7go.xyz:8080/live/15junior/as1266375/18787.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="Filmes",AXN HD
 http://7go.xyz:8080/live/15junior/as1266375/18791.m3u8
@@ -331,43 +330,62 @@ http://7go.xyz:8080/live/15junior/as1266375/18852.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RuCNvi1.png" group-title="Filmes",WARNER CHANNEL HD
 http://7go.xyz:8080/live/15junior/as1266375/18882.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 01
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 01
 http://7go.xyz:8080/live/15junior/as1266375/18910.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 02
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 02
 http://7go.xyz:8080/live/15junior/as1266375/18911.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 03
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 03
 http://7go.xyz:8080/live/15junior/as1266375/22482.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 04
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 04
 http://7go.xyz:8080/live/15junior/as1266375/18913.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes", SKY PLAY 05
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 05
 http://7go.xyz:8080/live/15junior/as1266375/18914.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 06
-http://7go.xyz:8080/live/15junior/as1266375/55484.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 06
+http://7go.xyz:8080/live/15junior/as1266375/55483.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 07
-http://7go.xyz:8080/live/15junior/as1266375/55478.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 07
+http://7go.xyz:8080/live/15junior/as1266375/55485.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 08
-http://7go.xyz:8080/live/15junior/as1266375/55479.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 08
+http://7go.xyz:8080/live/15junior/as1266375/160839.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 09
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 09
 http://7go.xyz:8080/live/15junior/as1266375/55480.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 10
 http://7go.xyz:8080/live/15junior/as1266375/55481.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",SKY PLAY 11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 11
 http://7go.xyz:8080/live/15junior/as1266375/55482.m3u8
 
-Cine sky ficão http://7go.xyz:8080/live/15junior/as1266375/55483.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/343
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/344
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/345
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/346
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 05
+http://voz.one:80/alexfnt/vTFBGKdUYq/324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 06
+http://voz.one:80/alexfnt/vTFBGKdUYq/338
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 07
+http://voz.one:80/alexfnt/vTFBGKdUYq/333
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 08
+http://voz.one:80/alexfnt/vTFBGKdUYq/339
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 09
+http://voz.one:80/alexfnt/vTFBGKdUYq/342
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 10
+http://voz.one:80/alexfnt/vTFBGKdUYq/335
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTP8aCG.png" group-title="Filmes",SKY PLAY 11
+http://voz.one:80/alexfnt/vTFBGKdUYq/340
 
-Cine sky policial http://7go.xyz:8080/live/15junior/as1266375/55485.m3u8
-Cine sky infantil http://7go.xyz:8080/live/15junior/as1266375/160839.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tKAIKYM.png" group-title="Filmes",PARAMOUNT CHANNEL HD
 http://7go.xyz:8080/live/15junior/as1266375/18852.m3u8
@@ -486,16 +504,16 @@ http://7go.xyz:8080/live/15junior/as1266375/299149.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FmQ3P0Z.png" group-title="Esportes", Paramount+ 4 HD
 http://7go.xyz:8080/live/15junior/as1266375/299150.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Filmes",HBO MAX 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Esportes",HBO MAX 1
 http://7go.xyz:8080/live/15junior/as1266375/64590.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Filmes",HBO MAX 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Esportes",HBO MAX 2
 http://7go.xyz:8080/live/15junior/as1266375/59961.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Filmes",HBO MAX 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Esportes",HBO MAX 3
 http://7go.xyz:8080/live/15junior/as1266375/64591.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Filmes",HBO MAX 4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Esportes",HBO MAX 4
 http://7go.xyz:8080/live/15junior/as1266375/69820.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BeDFSlD.png" group-title="Filmes",HBO MAX 5
@@ -566,7 +584,7 @@ http://7go.xyz:8080/live/15junior/as1266375/42919.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2n4SHOO.png" group-title="Esportes",NOSSO FUTEBOL - 04
 http://7go.xyz:8080/live/15junior/as1266375/42919.m3u8
-http://7go.xyz:8080/live/15junior/as1266375/18817.m3u8
+
 
 
 ######################################### 24Horas ################################################
@@ -660,7 +678,7 @@ http://7go.xyz:8080/live/15junior/as1266375/95536.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio62017_1605695144.png" group-title="Radios",RJ - Radio Cidade 
 http://7go.xyz:8080/live/15junior/as1266375/95542.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29751.v23.png",SP - Joven Pan FM 106.3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29751.v23.png" group-title="Radios", SP - Joven Pan FM 106.3
 http://7go.xyz:8080/live/15junior/as1266375/44850.m3u8
 
 
