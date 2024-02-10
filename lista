@@ -135,7 +135,7 @@ http://7go.xyz:8080/live/15junior/as1266375/22384.m3u8
 http://7go.xyz:8080/live/15junior/as1266375/18556.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
-http://7go.xyz:8080/live/15junior/as1266375/18587.m3u8
+http://7go.xyz:8080/live/15junior/as1266375/22171.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
 http://7go.xyz:8080/live/15junior/as1266375/22606.m3u8
@@ -171,8 +171,8 @@ http://7go.xyz:8080/live/15junior/as1266375/22601.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="Variedades",VIVA HD
 http://7go.xyz:8080/live/15junior/as1266375/18881.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW FHD²
-https://7go.xyz:8080/live/15junior/as1266375/22693.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD max
+http://7go.xyz:8080/live/15junior/as1266375/125690.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="Variedades",MTV HD
 http://7go.xyz:8080/live/15junior/as1266375/22586.m3u8
@@ -441,8 +441,8 @@ http://7go.xyz:8080/live/15junior/as1266375/18592.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/latMeUP.png" group-title="Noticias",CNN BRASIL HD
 http://7go.xyz:8080/live/15junior/as1266375/18642.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="Noticias",GLOBO NEWS FHD²
-https://7go.xyz:8080/live/15junior/as1266375/22677.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="Noticias",GLOBO NEWS HD max
+http://7go.xyz:8080/live/15junior/as1266375/18645.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="Noticias",JP NEWS HD
 http://7go.xyz:8080/live/15junior/as1266375/64581.m3u8
