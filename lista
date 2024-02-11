@@ -122,14 +122,11 @@ http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
 http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais aberto", Rede Brasil TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="Canais aberto", Rede Brasil
 http://7go.xyz:8080/live/15junior/as1266375/114063.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
 http://7go.xyz:8080/live/15junior/as1266375/22384.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="Canais aberto", Rede Brasil (Alternativo)
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
 http://7go.xyz:8080/live/15junior/as1266375/18556.m3u8
