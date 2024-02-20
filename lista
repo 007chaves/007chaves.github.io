@@ -392,9 +392,9 @@ http://7go.xyz:8080/live/15junior/as1266375/18813.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes",CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes", Cinemax (Alternativo)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes", Cinemax (Alternativo)
 http://7go.xyz:8080/live/15junior/as1266375/22490.m3u8
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Cinemax_%28Brasil%29#/media/Ficheiro:Cinemax_LA.png", group-title="Filmes", Cinemax (Alternativo)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes", Cinemax (Alternativo)
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JZyjyAx.png" group-title="Filmes",FX HD
