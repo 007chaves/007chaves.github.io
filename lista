@@ -1122,7 +1122,7 @@ http://195.128.248.216:8080/movie/15junior/as1266375/327048.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/327049.mp4
 #EXTINF:-1 group-title="filmes 2023",57 Segundos (2023)
 http://195.128.248.216:8080/movie/15junior/as1266375/327050.mp4
-#EXTINF:-1,A Filha do Rei do Pântano (2023)
+#EXTINF:-1 group-title="filmes 2023",A Filha do Rei do Pântano (2023)
 http://195.128.248.216:8080/movie/15junior/as1266375/327051.mp4
 #EXTINF:-1 group-title="filmes 2023",Carona Aterrorizante (2023)
 http://195.128.248.216:8080/movie/15junior/as1266375/327052.mp4
