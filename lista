@@ -37,71 +37,72 @@ http://voz.one:8080/live/alexfnt/vTFBGKdUYq/260567.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB PRINCIPAL 1¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326575.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2¹ (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB PRINCIPAL 2¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326576.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01¹ piscina (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326625.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB Piscina¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326625.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02¹ quarto magia (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326626.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB Quarto Magia¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326626.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03¹ quarto fada (Opcao 1)
-http://10gbfdc1.online:8080/live/15junior/as1266375/326581.m3u8?token=TxRaWEpeRw5HVVhRUg9aAFZRBAsAVVINVgxXAlFSAwVSAFYBCAIHBVIVFURDTEtUUQ49UFNGDgcAAwEKU09EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcADggPRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGVRUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFwCXAMbGw==
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB  Quarto Fada¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326581.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04¹ quarto gnomo (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326581.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB Quarto Gnomo¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326582.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05¹ sala (Opcao 1)
-http://10gbfdc1.online:8080/live/15junior/as1266375/326582.m3u8?token=TxRaWEpeRw5HBgBfB1paBQMHVAkAUgEGAgEMBFsHAlVVDwVaClQEVlIVFURDTEtUUQ49UFNGDgcAAwEKUE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcEDw8PRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGUBUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFQGUQELRE0=
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB  Sala¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326583.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06¹ cozinha delicia (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB Cozinha Delicia¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326584.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB  Chuveiro¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326585.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ jardim (Opcao 1)
-http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB  Jardim¹ (Opcao 1)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326586.m3u8
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB24 PRINC² (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326637.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB PRINCIPAL (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326637.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB24 PRINC2² (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326638.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB PRINCIPAL 2 (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326638.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 01² piscina (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326635.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Piscina (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326635.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 02² quarto magia (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326628.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Quarto magia (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326628.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 03² quarto fada (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326629.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Quarto fada (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326629.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 04² quarto gnomo (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326630.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Quarto gnomo (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326630.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 05² sala (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326631.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Sala (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326631.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 06² cozinha delicia (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326632.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Cozinha delicia (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326632.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 07² chuveiro (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326633.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Chuveiro (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326633.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 08² jardim (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326634.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Jardim (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326634.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 09² Quarto lider (Opcao 2)
-http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB Quarto lider (Opcao 2)
+http://195.128.248.216:8080/live/btvGpKvY/ZU1qGau4/326636.m3u8
+
 
 ######################################### Canais Aberto  ################################################
 
