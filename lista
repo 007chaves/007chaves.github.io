@@ -1,16 +1,5 @@
 #EXTM3U 
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" url-tvg="http://epg.51zmt.top:8000/e.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="3000"
-#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
 
 #EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Principal 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/254730
@@ -1011,6 +1000,12 @@ http://7go.xyz:8080/live/15junior/as1266375/44850.m3u8
 
 ######################################### MOVIES ################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Einstein e a Bomba (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg" group-title="FILMES | LANÇAMENTOS 2024",Einstein e a Bomba (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="FILMES | LANÇAMENTOS 2024",Lights Out (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="This Is Me... Now - Uma Historia de Amor LEG (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYQeEVKc4Kc8KXmsEoSYZHEwU3y.jpg" group-title="FILMES | LANÇAMENTOS 2024",This Is Me... Now - Uma Historia de Amor LEG (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328271.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agência do Amor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3PlsPgbqjfPJ2Gid8ffYSD29nTJ.jpg" group-title="FILMES | LANÇAMENTOS 2024",Agência do Amor (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/327535.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amor em Soweto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rnEtjm7NU3iauDlYWzEGySYZojQ.jpg" group-title="FILMES | LANÇAMENTOS 2024",Amor em Soweto (2024)
@@ -1031,8 +1026,6 @@ http://195.128.248.216:8080/movie/15junior/as1266375/327417.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/327418.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amante, Stalker e Mortal (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6kQodHV31ffIaE1vhEBo3as8Hon.jpg" group-title="FILMES | LANÇAMENTOS 2024",Amante, Stalker e Mortal (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/327248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indiferença (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2eCELoyf0l3njFKfn3oddo3JaRG.jpg" group-title="FILMES | LANÇAMENTOS 2024",Indiferença (2024)
-http://195.128.248.216:8080/movie/15junior/as1266375/327249.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="FILMES | LANÇAMENTOS 2024",Suncoast (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/327250.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Upgrade: As Cores do Amor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hfjWXFV4K0DC3RvGpozOErlB0DP.jpg" group-title="FILMES | LANÇAMENTOS 2024",Upgrade: As Cores do Amor (2024)
@@ -1056,6 +1049,7 @@ http://195.128.248.216:8080/movie/15junior/as1266375/326800.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mais Um Tiro Certo (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkHkMLoC41euiPZG62wslcHLreH.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mais Um Tiro Certo (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/326786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg" group-title="FILMES | LANÇAMENTOS 2024",Criptofraude (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/326556.mp4
 
 --------------------------------------------------------------------------------------------------------------------
 
