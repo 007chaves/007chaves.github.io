@@ -348,9 +348,9 @@ http://7go.xyz:8080/live/15junior/as1266375/18830.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JZyjyAx.png" group-title="Filmes",FX HD
 http://195.128.248.216:8080/live/15junior/as1266375/22540.m3u8
 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="CANAIS | HBO",HBO HD¹
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="Filmes",HBO HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/18836.m3u8
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="CANAIS | HBO",HBO HD²
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="https://3.bp.blogspot.com/-fur5XiiWBdw/WWUaZotCVwI/AAAAAAAA8Wo/DGxqCQtCk0wzKFsP-4bkFpj760qymOKHgCLcBGAs/s640/hbo.png" group-title="Filmes",HBO HD²
 http://195.128.248.216:8080/live/15junior/as1266375/22550.m3u8
 
 
