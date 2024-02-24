@@ -4,47 +4,67 @@
 
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01 PRINCIPAL 1 (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02 PRINCIPAL 2 (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03 Piscina (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326625.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04 Quarto Magia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326626.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05 Quarto Fada (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326581.m3u8?token=TxRaWEpeRw5HVVhRUg9aAFZRBAsAVVINVgxXAlFSAwVSAFYBCAIHBVIVFURDTEtUUQ49UFNGDgcAAwEKU09EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcADggPRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGVRUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFwCXAMbGw==
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06 Quarto Gnomo (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326581.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07 Sala (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326582.m3u8?token=TxRaWEpeRw5HBgBfB1paBQMHVAkAUgEGAgEMBFsHAlVVDwVaClQEVlIVFURDTEtUUQ49UFNGDgcAAwEKUE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcEDw8PRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGUBUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFQGUQELRE0=
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08 Cozinha Delicia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 09 Chuveiro (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 10 Jardim (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 01 PRINCIPAL 1 (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326637.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 02 PRINCIPAL 2 (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326638.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 03 Piscina (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326635.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 04 Quarto Magia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326628.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 05 Quarto Fada (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326629.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 06 Quarto Gnomo (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326630.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 07 Sala (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326631.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 08 Cozinha Delicia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326632.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 09 Chuveiro (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326633.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 10 jardim (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326634.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 11 Quarto lider (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 
@@ -459,21 +479,21 @@ http://7go.xyz:8080/live/15junior/as1266375/18913.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY 05
 http://7go.xyz:8080/live/15junior/as1266375/18914.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY AVENTURA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY AVENTURA HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY AVENTURA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY AVENTURA HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY AÇÃO HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY AÇÃO HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY AÇÃO HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY AÇÃO HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY COMEDIA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY COMEDIA HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY COMEDIA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY COMEDIA HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY DRAMA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY DRAMA HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY DRAMA HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY DRAMA HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY ANIME HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY ANIME HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY ANIME HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY ANIME HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY FICÇÃO HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY FICÇÃO HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY FICÇÃO HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY FICÇÃO HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY POLICIAL HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY POLICIAL HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY POLICIAL HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY POLICIAL HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/55485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY INFANTIL HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY INFANTIL HD¹
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY INFANTIL HD¹" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="Filmes",CINE SKY INFANTIL HD¹
 http://195.128.248.216:8080/live/15junior/as1266375/160839.m3u8
 
 
@@ -1288,13 +1308,5 @@ http://195.128.248.216:8080/movie/15junior/as1266375/323105.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/323106.mp4
 
 ######################################################   Series    ############################################
-
-
-
-
-
-
-
-
 
 
