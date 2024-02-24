@@ -1,105 +1,70 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Principal 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Principal 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Quarto Fada
-http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Quarto Gnomo
-http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Cozinha Delicia
-http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Quarto Lider
-http://voz.one:80/alexfnt/vTFBGKdUYq/258182
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Sala 
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Jardim
-http://voz.one:8080/live/alexfnt/vTFBGKdUYq/260569.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Chuveiro
-http://voz.one:8080/live/alexfnt/vTFBGKdUYq/260570.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Cozinha
-http://voz.one:8080/live/alexfnt/vTFBGKdUYq/260571.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Quarto Magia
-http://voz.one:8080/live/alexfnt/vTFBGKdUYq/260567.m3u8
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC¹ (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01 PRINCIPAL 1 (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326575.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB24 PRINC2¹ (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02 PRINCIPAL 2 (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326576.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01¹ piscina (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03 Piscina (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326625.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 02¹ quarto magia (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04 Quarto Magia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326626.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 03¹ quarto fada (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05 Quarto Fada (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326581.m3u8?token=TxRaWEpeRw5HVVhRUg9aAFZRBAsAVVINVgxXAlFSAwVSAFYBCAIHBVIVFURDTEtUUQ49UFNGDgcAAwEKU09EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcADggPRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGVRUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFwCXAMbGw==
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 04¹ quarto gnomo (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06 Quarto Gnomo (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326581.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 05¹ sala (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07 Sala (Opcao 1)
 http://10gbfdc1.online:8080/live/15junior/as1266375/326582.m3u8?token=TxRaWEpeRw5HBgBfB1paBQMHVAkAUgEGAgEMBFsHAlVVDwVaClQEVlIVFURDTEtUUQ49UFNGDgcAAwEKUE9EREdTQGZQUkcORwYMVQAKCRMcQRZQWgEWDgIZFkILB0QLFgcEDw8PRxhHUkESVUpXUFw8BlxBDVdREA9aRw4PShNbWG1dXFsEWgEVA0QAGhUTWRASGw0KQVheGRZQCxcUUEBTEAMbB1IGUBUVRFNXTF9EERsbDUZhZxAZFlcaFwNfR19dVxsMR1lWQgFEHBpQQm8RB0pDFlFVX1BGEFhBVhMYFF9YQWkGWwtZXAVEUVZfQ0FYGwZGGBZfWlpbFgwUbkRfVhsDFFQGUQELRE0=
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 06¹ cozinha delicia (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08 Cozinha Delicia (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326584.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 07¹ chuveiro (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 09 Chuveiro (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326585.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 08¹ jardim (Opcao 1)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 10 Jardim (Opcao 1)
 http://7go.xyz:8080/live/15junior/as1266375/326586.m3u8
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB24 PRINC² (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 01 PRINCIPAL 1 (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326637.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB24 PRINC2² (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 02 PRINCIPAL 2 (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326638.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 01² piscina (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 03 Piscina (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326635.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 02² quarto magia (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 04 Quarto Magia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326628.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 03² quarto fada (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 05 Quarto Fada (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326629.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 04² quarto gnomo (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 06 Quarto Gnomo (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326630.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 05² sala (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 07 Sala (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326631.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 06² cozinha delicia (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 08 Cozinha Delicia (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326632.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 07² chuveiro (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 09 Chuveiro (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326633.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 08² jardim (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 10 jardim (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326634.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 09² Quarto lider (Opcao 2)
+#EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3235176:1694815043/bbb-24-png.png?f=3x2&w=1224",BBB 11 Quarto lider (Opcao 2)
 http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 
 
@@ -110,89 +75,80 @@ http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
 http://7go.xyz:8080/live/15junior/as1266375/22627.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/tv_aparecida.png" group-title="Canais aberto" , TV APARECIDA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/727
+http://195.128.248.216:8080/15junior/as1266375/18877
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
 http://7go.xyz:8080/live/15junior/as1266375/114061.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Umkc4Xp.png"  group-title="Canais aberto", FUTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/255
+http://195.128.248.216:8080/15junior/as1266375/114060
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
 http://7go.xyz:8080/live/15junior/as1266375/30256.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="Canais aberto",TV BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/263
+http://195.128.248.216:8080/15junior/as1266375/64623
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
 http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OGzqwpj.png" group-title="Canais aberto",TV CULTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/254
+http://195.128.248.216:8080/15junior/as1266375/20950
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
 http://7go.xyz:8080/live/15junior/as1266375/25667.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="Canais aberto",Tv Escola
-http://voz.one:80/alexfnt/vTFBGKdUYq/45929
+http://195.128.248.216:8080/15junior/as1266375/64625
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="Canais aberto", Rede Brasil
 http://7go.xyz:8080/live/15junior/as1266375/114063.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais aberto", Rede Brasil TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/45915
+http://195.128.248.216:8080/15junior/as1266375/114063
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
 http://7go.xyz:8080/live/15junior/as1266375/22384.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9APWj5.png" group-title="Canais aberto",Rede VIDA
-http://voz.one:80/alexfnt/vTFBGKdUYq/96152
+http://195.128.248.216:8080/15junior/as1266375/22384
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
 http://7go.xyz:8080/live/15junior/as1266375/18556.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto",GLOBO RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45803
+http://195.128.248.216:8080/15junior/as1266375/109040
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="Canais aberto", Globo RJ (alternativo)
-http://7go.xyz:8080/live/15junior/as1266375/22171.m3u8
+http://195.128.248.216:8080/15junior/as1266375/28776
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
 http://7go.xyz:8080/live/15junior/as1266375/22606.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/259
+http://195.128.248.216:8080/15junior/as1266375/64619
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV FHD
-http://7go.xyz:8080/live/15junior/as1266375/31591.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="Canais aberto",REDE TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/258
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
 http://7go.xyz:8080/live/15junior/as1266375/125416.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/248
+http://195.128.248.216:8080/15junior/as1266375/22463
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Canais aberto", Band RJ (Alternativo)
-http://7go.xyz:8080/live/15junior/as1266375/22463.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8kSTnrr.jpg" group-title="Canais aberto", Band RJ (Alternativo)
-https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=-0wJqOCnZhuAObwiGPep1Q&3U1G7qaTxrPbalZnEx=1707008779
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND SP HD
 http://7go.xyz:8080/live/15junior/as1266375/18619.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="Canais aberto",BAND SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/251
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT RJ HD
 http://7go.xyz:8080/live/15junior/as1266375/22608.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/313
+http://195.128.248.216:8080/15junior/as1266375/125496
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT RJ HD²
-http://7go.xyz:8080/live/15junior/as1266375/125496.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/311
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nHE1nq7.png" group-title="Canais aberto",SBT RJ HD² (Alternativo)
+http://195.128.248.216:8080/15junior/as1266375/64631
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto",RECORD RJ HD
 http://7go.xyz:8080/live/15junior/as1266375/18594.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto",RECORD RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/291
-
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto", Record RJ
 http://7go.xyz:8080/live/15junior/as1266375/22601.m3u8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="Canais aberto", Record SP (Alternativo)
+http://195.128.248.216:8080/15junior/as1266375/7668
 
 
 
@@ -202,153 +158,153 @@ http://7go.xyz:8080/live/15junior/as1266375/22601.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="Variedades",VIVA HD
 http://7go.xyz:8080/live/15junior/as1266375/18881.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="Variedades",VIVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/786
+http://195.128.248.216:8080/15junior/as1266375/22630
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD
 http://7go.xyz:8080/live/15junior/as1266375/125690.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3pOqmPF.png" group-title="Variedades",MULTISHOW HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/775
+http://195.128.248.216:8080/15junior/as1266375/22587
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="Variedades",MTV HD
 http://7go.xyz:8080/live/15junior/as1266375/22586.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="Variedades",MTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/790
+http://195.128.248.216:8080/15junior/as1266375/18848
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/048gBVZ.png" group-title="Variedades",MTV 00s HD
 http://7go.xyz:8080/live/15junior/as1266375/317838.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/048gBVZ.png" group-title="Variedades",MTV 00s HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65333
+http://195.128.248.216:8080/15junior/as1266375/22629
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hwSi0K7.png" group-title="Variedades",MTV Live HD
 http://7go.xyz:8080/live/15junior/as1266375/317840.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hwSi0K7.png" group-title="Variedades",MTV Live HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65331
+http://195.128.248.216:8080/15junior/as1266375/317837
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="Variedades",BIS HD
 http://7go.xyz:8080/live/15junior/as1266375/22466.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="Variedades",BIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/755
+http://195.128.248.216:8080/15junior/as1266375/18807
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="Variedades",Music Box Brasil HD
 http://7go.xyz:8080/live/15junior/as1266375/64723.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="Variedades",Music Box Brasil HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45888
+http://195.128.248.216:8080/15junior/as1266375/31492
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FSpBdys.png" group-title="Variedades",ANIMAL PLANET HD
 http://7go.xyz:8080/live/15junior/as1266375/18789.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FSpBdys.png" group-title="Variedades",ANIMAL PLANET HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/2
+http://195.128.248.216:8080/15junior/as1266375/22457
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Variedades",DISCOVERY CHANNEL HD
 http://7go.xyz:8080/live/15junior/as1266375/18823.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Variedades",DISCOVERY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/5
+http://195.128.248.216:8080/15junior/as1266375/22506
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="Variedades",DISCOVERY HOME & HEALTH HD
 http://7go.xyz:8080/live/15junior/as1266375/18824.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="Variedades",DISCOVERY HOME & HEALTH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/8
+http://195.128.248.216:8080/15junior/as1266375/22507
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="Variedades",DISCOVERY KIDS HD
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="Variedades",DISCOVERY KIDS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/629
+http://195.128.248.216:8080/15junior/as1266375/22508
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="Variedades",DISCOVERY SCIENCE HD
 http://7go.xyz:8080/live/15junior/as1266375/22509.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="Variedades",DISCOVERY SCIENCE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/11
+http://195.128.248.216:8080/15junior/as1266375/18825
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQxMEB5b.jpg" group-title="Variedades",DISCOVERY THEATER HD
 http://7go.xyz:8080/live/15junior/as1266375/22510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQxMEB5b.jpg" group-title="Variedades",DISCOVERY THEATER HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/14
+http://195.128.248.216:8080/15junior/as1266375/18826
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="Variedades",DISCOVERY TLC HD
 http://7go.xyz:8080/live/15junior/as1266375/22511.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="Variedades",DISCOVERY TLC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/17
+http://195.128.248.216:8080/15junior/as1266375/18874
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="Variedades",DISCOVERY TURBO HD
 http://7go.xyz:8080/live/15junior/as1266375/22512.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="Variedades",DISCOVERY TURBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/20
+http://195.128.248.216:8080/15junior/as1266375/18827
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="Variedades",DISCOVERY WORLD HD
 http://7go.xyz:8080/live/15junior/as1266375/22513.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062019/img_20190616_125035.png?GZKtkt2hb.cmMxxKZNeJiedYK2Df7hph&itok=X-7kSr3r" group-title="Variedades",DISCOVERY WORLD HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/23
+http://195.128.248.216:8080/15junior/as1266375/18828
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DlYQyVzb.jpg" group-title="Variedades",ID - INVESTIGAÇÃO DISCOVERY HD
 http://7go.xyz:8080/live/15junior/as1266375/18844.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DlYQyVzb.jpg" group-title="Variedades",ID - INVESTIGAÇÃO DISCOVERY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/37
+http://195.128.248.216:8080/15junior/as1266375/22558
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="Variedades",HISTORY CHANNEL HD
 http://7go.xyz:8080/live/15junior/as1266375/18843.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/25/83/ba/2583ba30a62f0f6b8f1d799844d2b04e.png" group-title="Variedades",HISTORY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/33
+http://195.128.248.216:8080/15junior/as1266375/22557
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gyOMqU8.png" group-title="Variedades",H2 HD
 http://7go.xyz:8080/live/15junior/as1266375/18833.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gyOMqU8.png" group-title="Variedades",H2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/30
+http://195.128.248.216:8080/15junior/as1266375/22547
 
 #EXTINF:-1 tvg-logo="https://www.channelguidemag.com/wp-content/uploads/2010/03/e-logo.jpg" group-title="Variedades",E! HD
 http://7go.xyz:8080/live/15junior/as1266375/18829.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelguidemag.com/wp-content/uploads/2010/03/e-logo.jpg" group-title="Variedades",E! HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/763
+http://195.128.248.216:8080/15junior/as1266375/22517
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dkfsmqU.png" group-title="Variedades",HGTV HD
 http://7go.xyz:8080/live/15junior/as1266375/18842.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dkfsmqU.png" group-title="Variedades",HGTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/770
+http://195.128.248.216:8080/15junior/as1266375/22556
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iTya3Vq.png" group-title="Variedades",LIFETIME HD
 http://7go.xyz:8080/live/15junior/as1266375/18845.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iTya3Vq.png" group-title="Variedades",LIFETIME HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/446
+http://195.128.248.216:8080/15junior/as1266375/22584
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Z6Zsq2.png" group-title="Variedades",FASHION TV HD
 http://7go.xyz:8080/live/15junior/as1266375/22531.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Z6Zsq2.png" group-title="Variedades",FASHION TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64387
+http://195.128.248.216:8080/15junior/as1266375/64645
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gAgOzh8.png" group-title="Variedades",FILM & ART HD
 http://7go.xyz:8080/live/15junior/as1266375/160021.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gAgOzh8.png" group-title="Variedades",FILM & ART HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45878
+http://195.128.248.216:8080/15junior/as1266375/99448
 
 
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/national-geographic-logo-png-ng-logo-gray-png-2000.png" group-title="Variedades",NATIONAL GEOGRAPHIC HD
 http://7go.xyz:8080/live/15junior/as1266375/183640.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/national-geographic-logo-png-ng-logo-gray-png-2000.png" group-title="Variedades",NATIONAL GEOGRAPHIC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/42
+http://195.128.248.216:8080/15junior/as1266375/22590
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Variedades",NatGeo Wild
 http://7go.xyz:8080/live/15junior/as1266375/18850.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Variedades",NatGeo Wild (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13905
+http://195.128.248.216:8080/15junior/as1266375/22589
 
 #EXTINF:-1 tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="Variedades",ARTE 1 HD
 http://7go.xyz:8080/live/15junior/as1266375/18790.m3u8
 #EXTINF:-1 tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="Variedades",ARTE 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/788
+http://195.128.248.216:8080/15junior/as1266375/22458
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="Variedades",COMBATE HD
 http://7go.xyz:8080/live/15junior/as1266375/18685.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="Variedades",COMBATE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/352
+http://195.128.248.216:8080/15junior/as1266375/22492
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/13/f5/f713f5d4cf33483c988c62dac64c67ef.png" group-title="Variedades",COMEDY CENTRAL HD
 http://7go.xyz:8080/live/15junior/as1266375/31483.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/13/f5/f713f5d4cf33483c988c62dac64c67ef.png" group-title="Variedades",COMEDY CENTRAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/758
+http://195.128.248.216:8080/15junior/as1266375/22493
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uS0lrJB.png" group-title="Variedades",GNT HD
 http://7go.xyz:8080/live/15junior/as1266375/18832.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uS0lrJB.png" group-title="Variedades",GNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/765
+http://195.128.248.216:8080/15junior/as1266375/22546
+
 
 
 ######################################### Filmes  ################################################
