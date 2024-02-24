@@ -1,5 +1,5 @@
 #EXTM3U 
-url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
+url-tvg="https://www.bevy.be/bevyfiles/brazilpremium2.xml.txt"
 
 #EXTINF:-1 tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2023/12/bbb-24-estreia.jpg" group-title="BBB", Principal 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/254730
