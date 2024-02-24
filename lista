@@ -389,12 +389,12 @@ http://7go.xyz:8080/live/15junior/as1266375/18865.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9431c26909c7_cinecanal.png" group-title="Filmes",CINE CANAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes",CINEMAX HD
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes",CINEMAX HD
 http://7go.xyz:8080/live/15junior/as1266375/18813.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes",CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes", Cinemax (Alternativo)
+#EXTINF:-1 tvg-id="Cinemax HD.br" tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes", Cinemax (Alternativo)
 http://7go.xyz:8080/live/15junior/as1266375/22490.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LNJBV0T.png" group-title="Filmes", Cinemax (Alternativo)
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
