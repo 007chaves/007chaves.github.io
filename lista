@@ -364,9 +364,9 @@ http://7go.xyz:8080/live/15junior/as1266375/18835.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a6/fd/c5/a6fdc5495a1a07ebc8fe692135d8de28.png" group-title="Filmes",HBO FAMILY HD
 http://195.128.248.216:8080/live/15junior/as1266375/22549.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="Filmes",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="Filmes",HBOMUNDI HD
 http://7go.xyz:8080/live/15junior/as1266375/18837.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="Filmes",HBO MUNDI HD
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-logo="http://i.imgur.com/g3Cjc7J.png" group-title="Filmes",HBO MUNDI HD
 http://195.128.248.216:8080/live/15junior/as1266375/22551.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/50/a0/8050a056da95a9914b41b7c5224421fa.png" group-title="Filmes",HBO PLUS HD
