@@ -842,6 +842,13 @@ http://7go.xyz:8080/live/15junior/as1266375/44850.m3u8
 
 ######################################### MOVIES ################################################
 
+95.128.248.216:8080/15junior/as1266375/282157
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Risco (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg" group-title="FILMES | LANÇAMENTOS 2024",Zona de Risco (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Através da Minha Janela 3: Olhos nos Olhos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxCPqvBGeiBU1IOK7LbReAyVQQ7.jpg" group-title="FILMES | LANÇAMENTOS 2024",Através da Minha Janela 3: Olhos nos Olhos (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mea Culpa (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mea Culpa (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328284.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Einstein e a Bomba (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg" group-title="FILMES | LANÇAMENTOS 2024",Einstein e a Bomba (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/328217.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lights Out (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="FILMES | LANÇAMENTOS 2024",Lights Out (2024)
@@ -890,9 +897,6 @@ http://195.128.248.216:8080/movie/15junior/as1266375/326799.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/326800.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mais Um Tiro Certo (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkHkMLoC41euiPZG62wslcHLreH.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mais Um Tiro Certo (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/326786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg" group-title="FILMES | LANÇAMENTOS 2024",Criptofraude (2024)
-http://195.128.248.216:8080/movie/15junior/as1266375/326556.mp4
-
 --------------------------------------------------------------------------------------------------------------------
 
 
