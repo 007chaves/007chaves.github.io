@@ -842,7 +842,20 @@ http://7go.xyz:8080/live/15junior/as1266375/44850.m3u8
 
 ######################################### MOVIES ################################################
 
-95.128.248.216:8080/15junior/as1266375/282157
+#EXTINF:-1 tvg-id="" tvg-name="Beekeeper: Rede de Vingança (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg" group-title="FILMES | LANÇAMENTOS 2024",Beekeeper: Rede de Vingança (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meninas Malvadas (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZx6gIkqiZ559w1S8wFHIeKmp7C.jpg" group-title="FILMES | LANÇAMENTOS 2024",Meninas Malvadas (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Loh Kiwan (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8uSVcFwh0B5SewZMLzr7qRJQjQH.jpg" group-title="FILMES | LANÇAMENTOS 2024",Meu Nome é Loh Kiwan (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Astronauta (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dSlxL3npFEEC1zXU8eEnaVTpKCV.jpg" group-title="FILMES | LANÇAMENTOS 2024",O Astronauta (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xeque Mate (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" group-title="FILMES | LANÇAMENTOS 2024",Xeque Mate (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Corra (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5f0J6hKQV1jVkTeAkn72dotVYed.jpg" group-title="FILMES | LANÇAMENTOS 2024",Apenas Corra (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: Renegados - Parte 2 (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/exKPoGHDKF2bNJmUrduKrBNNtxi.jpg" group-title="FILMES | LANÇAMENTOS 2024",Code 8: Renegados - Parte 2 (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328542.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zona de Risco (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg" group-title="FILMES | LANÇAMENTOS 2024",Zona de Risco (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/328360.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Através da Minha Janela 3: Olhos nos Olhos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxCPqvBGeiBU1IOK7LbReAyVQQ7.jpg" group-title="FILMES | LANÇAMENTOS 2024",Através da Minha Janela 3: Olhos nos Olhos (2024)
@@ -897,6 +910,10 @@ http://195.128.248.216:8080/movie/15junior/as1266375/326799.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/326800.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mais Um Tiro Certo (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkHkMLoC41euiPZG62wslcHLreH.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mais Um Tiro Certo (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/326786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg" group-title="FILMES | LANÇAMENTOS 2024",Criptofraude (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/326556.mp4
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 
