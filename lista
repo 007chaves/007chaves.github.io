@@ -842,6 +842,20 @@ http://7go.xyz:8080/live/15junior/as1266375/44850.m3u8
 
 ######################################### MOVIES ################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Mergulho Noturno (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mergulho Noturno (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno dos Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wEquopFw43QCKsBp1fpIabmGlYc.jpg" group-title="FILMES | LANÇAMENTOS 2024",O Retorno dos Thundermans (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg" group-title="FILMES | LANÇAMENTOS 2024",Ricky Stanicky (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donzela (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ji5sD9AS4UlbJYB0HJCRQMXrgZd.jpg" group-title="FILMES | LANÇAMENTOS 2024",Donzela (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saudade Que Fica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vPxtPgWMB6jCazp3TYWAMp3ThZw.jpg" group-title="FILMES | LANÇAMENTOS 2024",A Saudade Que Fica (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They Called Him Mostly Harmless (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ngi39RT9kxTPyGN5CwK2XEZrk.jpg" group-title="FILMES | LANÇAMENTOS 2024",They Called Him Mostly Harmless (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica Jovem: Reflexos do Medo (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zG1YYywzTRf791p146Ae5REh9h6.jpg" group-title="FILMES | LANÇAMENTOS 2024",Turma da Mônica Jovem: Reflexos do Medo (2024)
+http://195.128.248.216:8080/movie/15junior/as1266375/328818.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beekeeper: Rede de Vingança (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg" group-title="FILMES | LANÇAMENTOS 2024",Beekeeper: Rede de Vingança (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/328565.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meninas Malvadas (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZx6gIkqiZ559w1S8wFHIeKmp7C.jpg" group-title="FILMES | LANÇAMENTOS 2024",Meninas Malvadas (2024)
@@ -912,7 +926,6 @@ http://195.128.248.216:8080/movie/15junior/as1266375/326800.mp4
 http://195.128.248.216:8080/movie/15junior/as1266375/326786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg" group-title="FILMES | LANÇAMENTOS 2024",Criptofraude (2024)
 http://195.128.248.216:8080/movie/15junior/as1266375/326556.mp4
-
 
 --------------------------------------------------------------------------------------------------------------------
 
